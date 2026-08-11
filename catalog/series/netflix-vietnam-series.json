@@ -1,14 +1,74 @@
 {
   "metas": [
     {
-      "id": "tmdb:1399",
+      "id": "tmdb:296206",
       "type": "series",
-      "name": "Game of Thrones"
+      "name": "Agent Kim Reactivated",
+      "poster": "https://image.tmdb.org/t/p/w500/mxa7YxVln3Rwnd2Va82PoclTznj.jpg",
+      "description": "When an unassuming dad's daughter goes missing, he dusts off his old black-ops skills to track her down — only to attract the wrong kind of attention."
     },
     {
-      "id": "tmdb:66732",
+      "id": "tmdb:279323",
       "type": "series",
-      "name": "Stranger Things"
+      "name": "The East Palace",
+      "poster": "https://image.tmdb.org/t/p/w500/yfYohBszGqoAW8oM0qydOtJ4kPh.jpg",
+      "description": "A man who walks the spirit world and a court lady who hears the dead enter the East Palace by the king's orders — can they unravel its dark secrets?"
+    },
+    {
+      "id": "tmdb:298610",
+      "type": "series",
+      "name": "Spooky in Love",
+      "poster": "https://image.tmdb.org/t/p/w500/acVOH8Pr5LEZ7WKZCbzwNuHVr9x.jpg",
+      "description": "When a ghost-seeing heir and an ace prosecutor learn that a single touch makes them a strangely effective duo, they team up to crack unsolved murders."
+    },
+    {
+      "id": "tmdb:300727",
+      "type": "series",
+      "name": "The Apartment Job",
+      "poster": "https://image.tmdb.org/t/p/w500/qFxbrHvNq5tn9SCBq3aKPgaGfyO.jpg",
+      "description": "Desperate for cash, a former gang boss teams up with an aspiring lawyer to steal an apartment complex's reserve fund — only to uncover deep corruption."
+    },
+    {
+      "id": "tmdb:276161",
+      "type": "series",
+      "name": "Teach You a Lesson",
+      "poster": "https://image.tmdb.org/t/p/w500/fMECSPrTmRClSViMsXFYmiYIcWP.jpg",
+      "description": "An inspector from the Educational Rights Protection Bureau (ERPB) who is authorized by the government to use physical intervention and unconventional methods to discipline delinquent students and reform the educational system."
+    },
+    {
+      "id": "tmdb:281281",
+      "type": "series",
+      "name": "Elite Force",
+      "poster": "https://image.tmdb.org/t/p/w500/ymjYmuHG4Af93fcoF0NKwx9Rovb.jpg",
+      "description": "After an unprecedented attack on his unit, a high-ranking officer set to leave the field leads a perilous mission that forces him to confront his past."
+    },
+    {
+      "id": "tmdb:232766",
+      "type": "series",
+      "name": "Mercy for None",
+      "poster": "https://image.tmdb.org/t/p/w500/AjL335mFBe7LgCqo3w0RNBSbbZU.jpg",
+      "description": "After severing ties with his gang, a former gangster returns to uncover the truth behind his brother's death — embarking on a relentless path of revenge."
+    },
+    {
+      "id": "tmdb:229891",
+      "type": "series",
+      "name": "Can This Love Be Translated?",
+      "poster": "https://image.tmdb.org/t/p/w500/zgUh4cgalSzBjbsT5P0qmU7Rjzk.jpg",
+      "description": "The emotions of a celebrity and her interpreter get lost in translation as they travel the world filming a TV show. Will love find its own language?"
+    },
+    {
+      "id": "tmdb:328735",
+      "type": "series",
+      "name": "The Idaho Murders: College Nightmare",
+      "poster": "https://image.tmdb.org/t/p/w500/2Fjgxlv2ishFAaYYZLa6jccswbq.jpg",
+      "description": "Chronicles one of the most chilling murder cases in recent memory — honoring the four young lives that were taken while tracing every step from the night of the killings to the eventual arrest of a suspect."
+    },
+    {
+      "id": "tmdb:286345",
+      "type": "series",
+      "name": "Though I Am an Inept Villainess",
+      "poster": "https://image.tmdb.org/t/p/w500/yZHCMXL2xYS988rYxR1D8YrTzeD.jpg",
+      "description": "Just as His Highness’s favored butterfly Reirin is beloved by the prince, jealous “court sewer rat” Keigetsu uses magic to swap their bodies—and their destinies. With a looming execution, Reirin embraces her new, healthy body, while Keigetsu learns Reirin’s life isn’t what it seems as she’s pulled into an inner-court conspiracy."
     }
   ]
 }
