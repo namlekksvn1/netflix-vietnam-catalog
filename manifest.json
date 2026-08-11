@@ -3,8 +3,18 @@
   "version": "1.0.0",
   "name": "Netflix Vietnam Trending",
   "description": "Netflix Vietnam Trending Movies and Series",
+  "logo": "https://assets.nflxext.com/ffe/siteui/common/icons/nficon2016.ico",
   "resources": [
-    "catalog"
+    {
+      "name": "catalog",
+      "types": [
+        "movie",
+        "series"
+      ],
+      "idPrefixes": [
+        "tmdb:"
+      ]
+    }
   ],
   "types": [
     "movie",
