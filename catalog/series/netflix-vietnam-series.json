@@ -1,0 +1,14 @@
+{
+  "metas": [
+    {
+      "id": "tmdb:1399",
+      "type": "series",
+      "name": "Game of Thrones"
+    },
+    {
+      "id": "tmdb:66732",
+      "type": "series",
+      "name": "Stranger Things"
+    }
+  ]
+}
