@@ -1,0 +1,25 @@
+{
+  "id": "com.namlekksvn1.netflix-vietnam",
+  "version": "1.0.0",
+  "name": "Netflix Vietnam Trending",
+  "description": "Netflix Vietnam Trending Movies and Series",
+  "resources": [
+    "catalog"
+  ],
+  "types": [
+    "movie",
+    "series"
+  ],
+  "catalogs": [
+    {
+      "type": "movie",
+      "id": "netflix-vietnam-movies",
+      "name": "Netflix Vietnam Top Movies"
+    },
+    {
+      "type": "series",
+      "id": "netflix-vietnam-series",
+      "name": "Netflix Vietnam Top Series"
+    }
+  ]
+}
