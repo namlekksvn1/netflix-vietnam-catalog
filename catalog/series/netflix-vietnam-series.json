@@ -5,61 +5,115 @@
       "type": "series",
       "name": "Our Sticky Love",
       "poster": "https://image.tmdb.org/t/p/w500/tSZ4aFpTGc8Oj52SuzPUUZ7WKL0.jpg",
-      "description": "An ambitious prosecutor loses her memory and moves in with a boxing coach who claims to be her boyfriend. Can this sticky situation turn into real love?"
+      "background": "https://image.tmdb.org/t/p/w1280/mp2AFsWsuyxCzenJh3DTKw7z4jG.jpg",
+      "description": "An ambitious prosecutor loses her memory and moves in with a boxing coach who claims to be her boyfriend. Can this sticky situation turn into real love?",
+      "releaseInfo": "2026",
+      "genres": [
+        "Drama",
+        "Comedy"
+      ]
     },
     {
       "id": "tmdb:296206",
       "type": "series",
       "name": "Agent Kim Reactivated",
       "poster": "https://image.tmdb.org/t/p/w500/mxa7YxVln3Rwnd2Va82PoclTznj.jpg",
-      "description": "When an unassuming dad's daughter goes missing, he dusts off his old black-ops skills to track her down — only to attract the wrong kind of attention."
+      "background": "https://image.tmdb.org/t/p/w1280/g1LJLlmWP74zv9yXKEXm7g9p10O.jpg",
+      "description": "When an unassuming dad's daughter goes missing, he dusts off his old black-ops skills to track her down — only to attract the wrong kind of attention.",
+      "releaseInfo": "2026",
+      "genres": [
+        "Action & Adventure",
+        "Crime",
+        "Drama"
+      ]
     },
     {
       "id": "tmdb:298610",
       "type": "series",
       "name": "Spooky in Love",
       "poster": "https://image.tmdb.org/t/p/w500/acVOH8Pr5LEZ7WKZCbzwNuHVr9x.jpg",
-      "description": "When a ghost-seeing heir and an ace prosecutor learn that a single touch makes them a strangely effective duo, they team up to crack unsolved murders."
+      "background": "https://image.tmdb.org/t/p/w1280/p9tpGftvG18M5y5wsBmPrQpVBsd.jpg",
+      "description": "When a ghost-seeing heir and an ace prosecutor learn that a single touch makes them a strangely effective duo, they team up to crack unsolved murders.",
+      "releaseInfo": "2026",
+      "genres": [
+        "Comedy",
+        "Sci-Fi & Fantasy",
+        "Drama"
+      ]
     },
     {
       "id": "tmdb:279323",
       "type": "series",
       "name": "The East Palace",
       "poster": "https://image.tmdb.org/t/p/w500/yfYohBszGqoAW8oM0qydOtJ4kPh.jpg",
-      "description": "A man who walks the spirit world and a court lady who hears the dead enter the East Palace by the king's orders — can they unravel its dark secrets?"
+      "background": "https://image.tmdb.org/t/p/w1280/8PHBAdPyfIwS5W6cfKLhItEb875.jpg",
+      "description": "A man who walks the spirit world and a court lady who hears the dead enter the East Palace by the king's orders — can they unravel its dark secrets?",
+      "releaseInfo": "2026",
+      "genres": [
+        "Mystery",
+        "Action & Adventure",
+        "Sci-Fi & Fantasy",
+        "Drama"
+      ]
     },
     {
       "id": "tmdb:300727",
       "type": "series",
       "name": "The Apartment Job",
       "poster": "https://image.tmdb.org/t/p/w500/qFxbrHvNq5tn9SCBq3aKPgaGfyO.jpg",
-      "description": "Desperate for cash, a former gang boss teams up with an aspiring lawyer to steal an apartment complex's reserve fund — only to uncover deep corruption."
+      "background": "https://image.tmdb.org/t/p/w1280/stJcZWrpfT2DjY0K261Q2FpxUkS.jpg",
+      "description": "Desperate for cash, a former gang boss teams up with an aspiring lawyer to steal an apartment complex's reserve fund — only to uncover deep corruption.",
+      "releaseInfo": "2026",
+      "genres": [
+        "Drama",
+        "Comedy",
+        "Crime"
+      ]
     },
     {
       "id": "tmdb:276161",
       "type": "series",
       "name": "Teach You a Lesson",
       "poster": "https://image.tmdb.org/t/p/w500/fMECSPrTmRClSViMsXFYmiYIcWP.jpg",
-      "description": "An inspector from the Educational Rights Protection Bureau (ERPB) who is authorized by the government to use physical intervention and unconventional methods to discipline delinquent students and reform the educational system."
+      "background": "https://image.tmdb.org/t/p/w1280/vyG93jhmPL7tBIhRtCLa5mdBKob.jpg",
+      "description": "An inspector from the Educational Rights Protection Bureau (ERPB) who is authorized by the government to use physical intervention and unconventional methods to discipline delinquent students and reform the educational system.",
+      "releaseInfo": "2026",
+      "genres": [
+        "Action & Adventure",
+        "Drama",
+        "Comedy"
+      ]
     },
     {
       "id": "tmdb:232766",
       "type": "series",
-      "name": "Mercy for None",
+      "name": "Mercy For None",
       "poster": "https://image.tmdb.org/t/p/w500/AjL335mFBe7LgCqo3w0RNBSbbZU.jpg",
-      "description": "After severing ties with his gang, a former gangster returns to uncover the truth behind his brother's death — embarking on a relentless path of revenge."
+      "background": "https://image.tmdb.org/t/p/w1280/fWJjsS2Tr2dlpYuw3o7Lifvgkru.jpg",
+      "description": "After severing ties with his gang, a former gangster returns to uncover the truth behind his brother's death — embarking on a relentless path of revenge.",
+      "releaseInfo": "2025",
+      "genres": [
+        "Action & Adventure",
+        "Drama"
+      ]
     },
     {
       "id": "tmdb:229891",
       "type": "series",
       "name": "Can This Love Be Translated?",
       "poster": "https://image.tmdb.org/t/p/w500/zgUh4cgalSzBjbsT5P0qmU7Rjzk.jpg",
-      "description": "The emotions of a celebrity and her interpreter get lost in translation as they travel the world filming a TV show. Will love find its own language?"
+      "background": "https://image.tmdb.org/t/p/w1280/svnZYhAboLrwHEtkKRm2mIdjocB.jpg",
+      "description": "The emotions of a celebrity and her interpreter get lost in translation as they travel the world filming a TV show. Will love find its own language?",
+      "releaseInfo": "2026",
+      "genres": [
+        "Drama",
+        "Comedy"
+      ]
     },
     {
       "id": "tmdb:296384",
       "type": "series",
-      "name": "Bitch and Rich 2",
+      "name": "Bitch and Rich",
       "poster": "https://image.tmdb.org/t/p/w500/rs2jIQ57iSTh8vh3opLEU4o2sos.jpg",
       "description": "Kim Hye-In (Lee Eun-Saem) becomes a member of Diamond 6 that rules Cheongdam International High School. She is the first Diamond 6 member to come from a poor family background. Meanwhile, Baek Je-Na (Yeri), the queen of the high school, is in danger of losing an important friendship and the management rights of her father's corporation. Kim Hye-In and Baek Je-Na cooperate and oppose each other for their own benefit. What choice will Kim Hye-In and Baek Je-Na make, who are once again at the center of their desires?"
     },
@@ -68,7 +122,12 @@
       "type": "series",
       "name": "The Eternal Fragrance",
       "poster": "https://image.tmdb.org/t/p/w500/hW9WvgtXk9Bf58bB4TZ1Dy0WquB.jpg",
-      "description": "When the Sea Calamity strikes and the Divine Tree appears, whoever claims its fruit gains power over all creation, sparking a bloody war among the immortals, demons, and monsters. A century later, Lei Xiuyuan seeks out Qingqiu orphan Xiaobangchui to save his brother. Fate brings them to Chufeng Academy, where loyal friends give her warmth and love begins to bloom. As their bond deepens from friendship to something more, the truth of her origins slowly unravels, threatening everything they've built."
+      "background": "https://image.tmdb.org/t/p/w1280/n2SLnF3CyIcLQ5d7bfgWBXz1kY6.jpg",
+      "description": "When the Sea Calamity strikes and the Divine Tree appears, whoever claims its fruit gains power over all creation, sparking a bloody war among the immortals, demons, and monsters. A century later, Lei Xiuyuan seeks out Qingqiu orphan Xiaobangchui to save his brother. Fate brings them to Chufeng Academy, where loyal friends give her warmth and love begins to bloom. As their bond deepens from friendship to something more, the truth of her origins slowly unravels, threatening everything they've built.",
+      "releaseInfo": "2026",
+      "genres": [
+        "Drama"
+      ]
     }
   ]
 }
