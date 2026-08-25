@@ -42,6 +42,20 @@
       ]
     },
     {
+      "id": "tmdb:300727",
+      "type": "series",
+      "name": "The Apartment Job",
+      "poster": "https://image.tmdb.org/t/p/w500/qFxbrHvNq5tn9SCBq3aKPgaGfyO.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/stJcZWrpfT2DjY0K261Q2FpxUkS.jpg",
+      "description": "Desperate for cash, a former gang boss teams up with an aspiring lawyer to steal an apartment complex's reserve fund — only to uncover deep corruption.",
+      "releaseInfo": "2026",
+      "genres": [
+        "Drama",
+        "Comedy",
+        "Crime"
+      ]
+    },
+    {
       "id": "tmdb:279323",
       "type": "series",
       "name": "The East Palace",
@@ -54,20 +68,6 @@
         "Action & Adventure",
         "Sci-Fi & Fantasy",
         "Drama"
-      ]
-    },
-    {
-      "id": "tmdb:300727",
-      "type": "series",
-      "name": "The Apartment Job",
-      "poster": "https://image.tmdb.org/t/p/w500/qFxbrHvNq5tn9SCBq3aKPgaGfyO.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/stJcZWrpfT2DjY0K261Q2FpxUkS.jpg",
-      "description": "Desperate for cash, a former gang boss teams up with an aspiring lawyer to steal an apartment complex's reserve fund — only to uncover deep corruption.",
-      "releaseInfo": "2026",
-      "genres": [
-        "Drama",
-        "Comedy",
-        "Crime"
       ]
     },
     {
@@ -85,16 +85,28 @@
       ]
     },
     {
-      "id": "tmdb:232766",
+      "id": "tmdb:214994",
       "type": "series",
-      "name": "Mercy For None",
-      "poster": "https://image.tmdb.org/t/p/w500/AjL335mFBe7LgCqo3w0RNBSbbZU.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/fWJjsS2Tr2dlpYuw3o7Lifvgkru.jpg",
-      "description": "After severing ties with his gang, a former gangster returns to uncover the truth behind his brother's death — embarking on a relentless path of revenge.",
-      "releaseInfo": "2025",
+      "name": "Bitch and Rich",
+      "poster": "https://image.tmdb.org/t/p/w500/gigYIx6DCgs9cFmvFEXTBo2Zwkm.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/t2fl4Po0H38ZYwzPboTTXhQ6v3Y.jpg",
+      "description": "Kim Hye-in has to transfer to Cheongdam International High School after witnessing a murder. She crosses paths with Baek Je-na, a bully who happens to be connected to the case.",
+      "releaseInfo": "2023",
       "genres": [
-        "Action & Adventure",
-        "Drama"
+        "Drama",
+        "Mystery"
+      ]
+    },
+    {
+      "id": "tmdb:329274",
+      "type": "series",
+      "name": "MOURINHO",
+      "poster": "https://image.tmdb.org/t/p/w500/uUgrxU3Gjl7HeaAlYa4glHWFbO5.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/ucEswoBdNxw3UchQ6WHxnGU4g1a.jpg",
+      "description": "This trophy-packed, insider-fuelled documentary charts José Mourinho's iconic rise as one of the world's top footballing managers of the most elite clubs.",
+      "releaseInfo": "2026",
+      "genres": [
+        "Documentary"
       ]
     },
     {
@@ -108,25 +120,6 @@
       "genres": [
         "Drama",
         "Comedy"
-      ]
-    },
-    {
-      "id": "tmdb:296384",
-      "type": "series",
-      "name": "Bitch and Rich",
-      "poster": "https://image.tmdb.org/t/p/w500/rs2jIQ57iSTh8vh3opLEU4o2sos.jpg",
-      "description": "Kim Hye-In (Lee Eun-Saem) becomes a member of Diamond 6 that rules Cheongdam International High School. She is the first Diamond 6 member to come from a poor family background. Meanwhile, Baek Je-Na (Yeri), the queen of the high school, is in danger of losing an important friendship and the management rights of her father's corporation. Kim Hye-In and Baek Je-Na cooperate and oppose each other for their own benefit. What choice will Kim Hye-In and Baek Je-Na make, who are once again at the center of their desires?"
-    },
-    {
-      "id": "tmdb:251600",
-      "type": "series",
-      "name": "The Eternal Fragrance",
-      "poster": "https://image.tmdb.org/t/p/w500/hW9WvgtXk9Bf58bB4TZ1Dy0WquB.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/n2SLnF3CyIcLQ5d7bfgWBXz1kY6.jpg",
-      "description": "When the Sea Calamity strikes and the Divine Tree appears, whoever claims its fruit gains power over all creation, sparking a bloody war among the immortals, demons, and monsters. A century later, Lei Xiuyuan seeks out Qingqiu orphan Xiaobangchui to save his brother. Fate brings them to Chufeng Academy, where loyal friends give her warmth and love begins to bloom. As their bond deepens from friendship to something more, the truth of her origins slowly unravels, threatening everything they've built.",
-      "releaseInfo": "2026",
-      "genres": [
-        "Drama"
       ]
     }
   ]
