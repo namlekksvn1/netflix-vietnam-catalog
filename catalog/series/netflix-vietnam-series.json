@@ -14,20 +14,6 @@
       ]
     },
     {
-      "id": "tmdb:296206",
-      "type": "series",
-      "name": "Agent Kim Reactivated",
-      "poster": "https://image.tmdb.org/t/p/w500/mxa7YxVln3Rwnd2Va82PoclTznj.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/g1LJLlmWP74zv9yXKEXm7g9p10O.jpg",
-      "description": "When an unassuming dad's daughter goes missing, he dusts off his old black-ops skills to track her down — only to attract the wrong kind of attention.",
-      "releaseInfo": "2026",
-      "genres": [
-        "Action & Adventure",
-        "Crime",
-        "Drama"
-      ]
-    },
-    {
       "id": "tmdb:298610",
       "type": "series",
       "name": "Spooky in Love",
@@ -38,6 +24,20 @@
       "genres": [
         "Comedy",
         "Sci-Fi & Fantasy",
+        "Drama"
+      ]
+    },
+    {
+      "id": "tmdb:296206",
+      "type": "series",
+      "name": "Agent Kim Reactivated",
+      "poster": "https://image.tmdb.org/t/p/w500/mxa7YxVln3Rwnd2Va82PoclTznj.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/g1LJLlmWP74zv9yXKEXm7g9p10O.jpg",
+      "description": "When an unassuming dad's daughter goes missing, he dusts off his old black-ops skills to track her down — only to attract the wrong kind of attention.",
+      "releaseInfo": "2026",
+      "genres": [
+        "Action & Adventure",
+        "Crime",
         "Drama"
       ]
     },
@@ -85,28 +85,16 @@
       ]
     },
     {
-      "id": "tmdb:214994",
+      "id": "tmdb:241454",
       "type": "series",
-      "name": "Bitch and Rich",
-      "poster": "https://image.tmdb.org/t/p/w500/gigYIx6DCgs9cFmvFEXTBo2Zwkm.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/t2fl4Po0H38ZYwzPboTTXhQ6v3Y.jpg",
-      "description": "Kim Hye-in has to transfer to Cheongdam International High School after witnessing a murder. She crosses paths with Baek Je-na, a bully who happens to be connected to the case.",
-      "releaseInfo": "2023",
+      "name": "Love Next Door",
+      "poster": "https://image.tmdb.org/t/p/w500/hikbLeofw2epfaEJptSkQ6b22IV.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/blNanzce8lKnrfjDqWLdPNPy7mo.jpg",
+      "description": "A woman attempting to reboot her life returns to Korea and becomes entangled with her childhood friend — with whom she shares a complicated history.",
+      "releaseInfo": "2024",
       "genres": [
         "Drama",
-        "Mystery"
-      ]
-    },
-    {
-      "id": "tmdb:329274",
-      "type": "series",
-      "name": "MOURINHO",
-      "poster": "https://image.tmdb.org/t/p/w500/uUgrxU3Gjl7HeaAlYa4glHWFbO5.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/ucEswoBdNxw3UchQ6WHxnGU4g1a.jpg",
-      "description": "This trophy-packed, insider-fuelled documentary charts José Mourinho's iconic rise as one of the world's top footballing managers of the most elite clubs.",
-      "releaseInfo": "2026",
-      "genres": [
-        "Documentary"
+        "Comedy"
       ]
     },
     {
@@ -120,6 +108,34 @@
       "genres": [
         "Drama",
         "Comedy"
+      ]
+    },
+    {
+      "id": "tmdb:286345",
+      "type": "series",
+      "name": "Though I Am an Inept Villainess",
+      "poster": "https://image.tmdb.org/t/p/w500/yZHCMXL2xYS988rYxR1D8YrTzeD.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/iNhtAnOhqQjiw7NMHrWbUw8mh4w.jpg",
+      "description": "Just as His Highness’s favored butterfly Reirin is beloved by the prince, jealous “court sewer rat” Keigetsu uses magic to swap their bodies—and their destinies. With a looming execution, Reirin embraces her new, healthy body, while Keigetsu learns Reirin’s life isn’t what it seems as she’s pulled into an inner-court conspiracy.",
+      "releaseInfo": "2026",
+      "genres": [
+        "Animation",
+        "Drama",
+        "Sci-Fi & Fantasy"
+      ]
+    },
+    {
+      "id": "tmdb:303351",
+      "type": "series",
+      "name": "Blood Sacrifice",
+      "poster": "https://image.tmdb.org/t/p/w500/8iFUWLKBAWDrJ9rOunscgIDrGQ1.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/z6mnJhvFbAgM1UTL87NWjJLhK26.jpg",
+      "description": "Following the brutal murder of two police officers, a tenacious detective reluctantly joins forces with his estranged ex-cop father to catch the killer.",
+      "releaseInfo": "2026",
+      "genres": [
+        "Drama",
+        "Crime",
+        "Mystery"
       ]
     }
   ]
