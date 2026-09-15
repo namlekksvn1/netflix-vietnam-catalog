@@ -1,31 +1,45 @@
 {
   "metas": [
     {
-      "id": "tmdb:1284041",
+      "id": "tmdb:1064213",
       "type": "movie",
-      "name": "The Last House",
-      "poster": "https://image.tmdb.org/t/p/w500/6JU7E8Vv2M11egkctWVOScxWR75.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/1RhfevWmWCVHtEqxWBEjPOC5KG1.jpg",
-      "description": "A family suddenly sealed inside their home must work together to survive against dwindling resources and the ominous threat keeping them trapped.",
+      "name": "Anora",
+      "poster": "https://image.tmdb.org/t/p/w500/cgXk2tNYhJZLXdBDO5DidAVzQ82.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/qvyOfwTC3qdbzkqdXWSSEMHtjBZ.jpg",
+      "description": "A young sex worker from Brooklyn gets her chance at a Cinderella story when she meets and impulsively marries the son of an oligarch. Once the news reaches Russia, her fairytale is threatened as his parents set out to get the marriage annulled.",
+      "releaseInfo": "2024",
+      "genres": [
+        "Drama",
+        "Comedy",
+        "Romance"
+      ]
+    },
+    {
+      "id": "tmdb:860508",
+      "type": "movie",
+      "name": "The Whisper Man",
+      "poster": "https://image.tmdb.org/t/p/w500/ndRs5lADYm0PeVjuOxaMcInY0o2.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/uauoVKKCkNA9iWjgJCL8TdSfLf5.jpg",
+      "description": "When his young son vanishes, a widower enlists help from his estranged father, a retired detective who put away the serial killer now linked to the case.",
       "releaseInfo": "2026",
       "genres": [
-        "Horror",
-        "Science Fiction",
+        "Crime",
+        "Drama",
         "Thriller"
       ]
     },
     {
-      "id": "tmdb:297761",
+      "id": "tmdb:72387",
       "type": "movie",
-      "name": "Suicide Squad",
-      "poster": "https://image.tmdb.org/t/p/w500/sk3FZgh3sRrmr8vyhaitNobMcfh.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/wAk0yKrhAmvsoMvlKs4QImhvK5X.jpg",
-      "description": "From DC Comics comes the Suicide Squad, an antihero team of incarcerated supervillains who act as deniable assets for the United States government, undertaking high-risk black ops missions in exchange for commuted prison sentences.",
-      "releaseInfo": "2016",
+      "name": "Safe",
+      "poster": "https://image.tmdb.org/t/p/w500/kOCpkoMUVae9UIf85gO71SyjLbW.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/gc150q5RMjq5vXJddBk90dXFvlr.jpg",
+      "description": "After a former elite agent rescues a 12-year-old Chinese girl who's been abducted, they find themselves in the middle of a standoff between Triads, the Russian Mafia and high-level corrupt New York City politicians and police.",
+      "releaseInfo": "2012",
       "genres": [
         "Action",
-        "Adventure",
-        "Fantasy"
+        "Crime",
+        "Thriller"
       ]
     },
     {
@@ -43,100 +57,85 @@
       ]
     },
     {
-      "id": "tmdb:1621552",
+      "id": "tmdb:333484",
       "type": "movie",
-      "name": "Facing El Chapo",
-      "poster": "https://image.tmdb.org/t/p/w500/alpf5v4UqSFawPmG9RX03Or4BDk.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/c4U96GrPRfnNrS01mBtqnocvlLJ.jpg",
-      "description": "Two Mexican officers must survive the final hours of their shift after crossing a ruthless cartel boss.",
+      "name": "The Magnificent Seven",
+      "poster": "https://image.tmdb.org/t/p/w500/ezcS78TIjgr85pVdaPDd2rSPVNs.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/4qxZJRYe4ezA5J1sidnV7vuaYaz.jpg",
+      "description": "Looking to mine for gold, greedy industrialist Bartholomew Bogue seizes control of the Old West town of Rose Creek. With their lives in jeopardy, Emma Cullen and other desperate residents turn to bounty hunter Sam Chisolm for help. Chisolm recruits an eclectic group of gunslingers to take on Bogue and his ruthless henchmen. With a deadly showdown on the horizon, the seven mercenaries soon find themselves fighting for more than just money once the bullets start to fly.",
+      "releaseInfo": "2016",
+      "genres": [
+        "Adventure",
+        "Action",
+        "Western"
+      ]
+    },
+    {
+      "id": "tmdb:1319522",
+      "type": "movie",
+      "name": "Gohan",
+      "poster": "https://image.tmdb.org/t/p/w500/nVq1Dn88NzVIVTDpGZeP7fxpLa1.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/gkb6yj4lRIkOQcLuni8V59YvKex.jpg",
+      "description": "The bonds between humans and animals following a stray dog named Gohan as it moves through life with temporary owners over a decade, through good times and bad times, joy and sorrow, hellos and goodbyes.",
       "releaseInfo": "2026",
       "genres": [
-        "Crime",
+        "Drama"
+      ]
+    },
+    {
+      "id": "tmdb:1631807",
+      "type": "movie",
+      "name": "The Secret Woman",
+      "poster": "https://image.tmdb.org/t/p/w500/5FC5vUHFz0fbJOd0bhyzJpCSLrc.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/ziOpmyZufqM7IusfThzBr1E9wqa.jpg",
+      "description": "After discovering she has a family and a shipping empire, a woman with amnesia returns to a wealthy and seemingly perfect past to uncover why she left.",
+      "releaseInfo": "2026",
+      "genres": [
+        "Drama",
+        "Thriller",
+        "Mystery"
+      ]
+    },
+    {
+      "id": "tmdb:14161",
+      "type": "movie",
+      "name": "2012",
+      "poster": "https://image.tmdb.org/t/p/w500/c2PkTPT5D9zB8SIm5wNlDAANEqM.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/4P71rDf6roxVskbvdcbNayVMpXd.jpg",
+      "description": "Dr. Adrian Helmsley, part of a worldwide geophysical team investigating the effect on the earth of radiation from unprecedented solar storms, learns that the earth's core is heating up. He warns U.S. President Thomas Wilson that the crust of the earth is becoming unstable and that without proper preparations for saving a fraction of the world's population, the entire race is doomed. Meanwhile, writer Jackson Curtis stumbles on the same information. While the world's leaders race to build \"arks\" to escape the impending cataclysm, Curtis struggles to find a way to save his family. Meanwhile, volcanic eruptions and earthquakes of unprecedented strength wreak havoc around the world.",
+      "releaseInfo": "2009",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Science Fiction"
+      ]
+    },
+    {
+      "id": "tmdb:19543",
+      "type": "movie",
+      "name": "Anacondas: Trail of Blood",
+      "poster": "https://image.tmdb.org/t/p/w500/916jenbMstGCE20hceYDTo8psf4.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/zzJxwLTX5QCWkWsq7RnRhNKFBBo.jpg",
+      "description": "A genetically created Anaconda, cut in half, regenerates itself into two new aggressive giant snakes, due to the Blood Orchid.",
+      "releaseInfo": "2009",
+      "genres": [
+        "Adventure",
+        "Horror",
+        "Thriller",
+        "TV Movie"
+      ]
+    },
+    {
+      "id": "tmdb:9924",
+      "type": "movie",
+      "name": "The Hard Corps",
+      "poster": "https://image.tmdb.org/t/p/w500/jrFtbuUMDMnJtlSVg5DWHFhMMGp.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/1q4EFc0LB7cI24qnZ8DcQ3bUwk0.jpg",
+      "description": "An Army veteran assembles a team of bodyguards to protect a former boxer. Complications arise when the boxer suspects his sister may be romantically involved with the bodyguard.",
+      "releaseInfo": "2005",
+      "genres": [
         "Action",
         "Thriller"
-      ]
-    },
-    {
-      "id": "tmdb:429617",
-      "type": "movie",
-      "name": "Spider-Man: Far from Home",
-      "poster": "https://image.tmdb.org/t/p/w500/4q2NNj4S5dG2RLF9CpXsej7yXl.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/vamhMTvh9m9zFHDoR0v1nRtf6T4.jpg",
-      "description": "Peter Parker and his friends go on a summer trip to Europe. However, they will hardly be able to rest - Peter will have to agree to help Nick Fury uncover the mystery of creatures that cause natural disasters and destruction throughout the continent.",
-      "releaseInfo": "2019",
-      "genres": [
-        "Action",
-        "Adventure",
-        "Science Fiction"
-      ]
-    },
-    {
-      "id": "tmdb:1311031",
-      "type": "movie",
-      "name": "Demon Slayer: Kimetsu no Yaiba Infinity Castle I",
-      "poster": "https://image.tmdb.org/t/p/w500/fWVSwgjpT2D78VUh6X8UBd2rorW.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/1RgPyOhN4DRs225BGTlHJqCudII.jpg",
-      "description": "The Demon Slayer Corps are drawn into the Infinity Castle, where Tanjiro, Nezuko, and the Hashira face terrifying Upper Rank demons in a desperate fight as the final battle against Muzan Kibutsuji begins.",
-      "releaseInfo": "2025",
-      "genres": [
-        "Animation",
-        "Action",
-        "Fantasy"
-      ]
-    },
-    {
-      "id": "tmdb:315635",
-      "type": "movie",
-      "name": "Spider-Man: Homecoming",
-      "poster": "https://image.tmdb.org/t/p/w500/c24sv2weTHPsmDa7jEMN0m2P3RT.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/fn4n6uOYcB6Uh89nbNPoU2w80RV.jpg",
-      "description": "Following the events of Captain America: Civil War, Peter Parker, with the help of his mentor Tony Stark, tries to balance his life as an ordinary high school student in Queens, New York City, with fighting crime as his superhero alter ego Spider-Man as a new threat, the Vulture, emerges.",
-      "releaseInfo": "2017",
-      "genres": [
-        "Action",
-        "Adventure",
-        "Science Fiction"
-      ]
-    },
-    {
-      "id": "tmdb:1569555",
-      "type": "movie",
-      "name": "Fish, Fists and Ambergris",
-      "poster": "https://image.tmdb.org/t/p/w500/7fHlcEovyJY1YhTd8FaJXj1mUk8.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/ociHIRRo2HNgRG2et4nDyNyTrM5.jpg",
-      "description": "The treasured relic of Long Diên Hương fishing village is stolen, setting off a thrilling pursuit. Beyond its spectacular martial arts sequences, the film delivers laughter, unity, and the heartfelt human values of the coastal villagers.",
-      "releaseInfo": "2025",
-      "genres": [
-        "Action",
-        "Adventure",
-        "Comedy"
-      ]
-    },
-    {
-      "id": "tmdb:8068",
-      "type": "movie",
-      "name": "Desperado",
-      "poster": "https://image.tmdb.org/t/p/w500/e3gwpBeXpvGZsxUya9zNym5QXrw.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/rWFLgIRGXzECIbczgo7dmnwq55q.jpg",
-      "description": "El Mariachi plunges headfirst into the dark border underworld when he follows a trail of blood to the last of the infamous Mexican drug lords, Bucho, for an action-packed, bullet-riddled showdown. With the help of his friend and a beautiful bookstore owner, El Mariachi tracks Bucho, takes on his army of desperados, and leaves his own trail of blood.",
-      "releaseInfo": "1995",
-      "genres": [
-        "Thriller",
-        "Action",
-        "Crime"
-      ]
-    },
-    {
-      "id": "tmdb:1391703",
-      "type": "movie",
-      "name": "The 4 Rascals",
-      "poster": "https://image.tmdb.org/t/p/w500/xfCtJdLp6lZiBZhrr9OCGhFWXyu.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/1c675BVbmNm1OoshmUWlL3wsgNt.jpg",
-      "description": "When her boyfriend grows close to a wealthy new colleague, a woman and her friends set out to expose the woman's true motives.",
-      "releaseInfo": "2025",
-      "genres": [
-        "Comedy",
-        "Romance"
       ]
     }
   ]
