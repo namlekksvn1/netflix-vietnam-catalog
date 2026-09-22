@@ -1,45 +1,44 @@
 {
   "metas": [
     {
-      "id": "tmdb:1064213",
+      "id": "tmdb:11951",
       "type": "movie",
-      "name": "Anora",
-      "poster": "https://image.tmdb.org/t/p/w500/cgXk2tNYhJZLXdBDO5DidAVzQ82.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/qvyOfwTC3qdbzkqdXWSSEMHtjBZ.jpg",
-      "description": "A young sex worker from Brooklyn gets her chance at a Cinderella story when she meets and impulsively marries the son of an oligarch. Once the news reaches Russia, her fairytale is threatened as his parents set out to get the marriage annulled.",
-      "releaseInfo": "2024",
-      "genres": [
-        "Drama",
-        "Comedy",
-        "Romance"
-      ]
-    },
-    {
-      "id": "tmdb:860508",
-      "type": "movie",
-      "name": "The Whisper Man",
-      "poster": "https://image.tmdb.org/t/p/w500/ndRs5lADYm0PeVjuOxaMcInY0o2.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/uauoVKKCkNA9iWjgJCL8TdSfLf5.jpg",
-      "description": "When his young son vanishes, a widower enlists help from his estranged father, a retired detective who put away the serial killer now linked to the case.",
-      "releaseInfo": "2026",
-      "genres": [
-        "Crime",
-        "Drama",
-        "Thriller"
-      ]
-    },
-    {
-      "id": "tmdb:72387",
-      "type": "movie",
-      "name": "Safe",
-      "poster": "https://image.tmdb.org/t/p/w500/kOCpkoMUVae9UIf85gO71SyjLbW.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/gc150q5RMjq5vXJddBk90dXFvlr.jpg",
-      "description": "After a former elite agent rescues a 12-year-old Chinese girl who's been abducted, they find themselves in the middle of a standoff between Triads, the Russian Mafia and high-level corrupt New York City politicians and police.",
-      "releaseInfo": "2012",
+      "name": "Vanishing Point",
+      "poster": "https://image.tmdb.org/t/p/w500/1ThnpFx2G2HPhecvODGFEQxfOpO.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/sYn05iS9AxV9rsjqBSHrI4azji1.jpg",
+      "description": "Kowalski works for a car delivery service, and takes delivery of a 1970 Dodge Challenger to drive from Colorado to San Francisco. Shortly after pickup, he takes a bet to get the car there in less than 15 hours.",
+      "releaseInfo": "1971",
       "genres": [
         "Action",
         "Crime",
+        "Drama",
         "Thriller"
+      ]
+    },
+    {
+      "id": "tmdb:17038",
+      "type": "movie",
+      "name": "Lake Placid 2",
+      "poster": "https://image.tmdb.org/t/p/w500/8XJlJZClpMi48PB51NXt5ZWm4Vr.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/u1bsHeDuH96NLcWCskUsiHQj6HJ.jpg",
+      "description": "Man-eating crocodiles return to the lake as two males and one aggressive female crocodile, which is protecting her nest, wreak havoc on the locals.",
+      "releaseInfo": "2007",
+      "genres": [
+        "Horror",
+        "Science Fiction"
+      ]
+    },
+    {
+      "id": "tmdb:184315",
+      "type": "movie",
+      "name": "Hercules",
+      "poster": "https://image.tmdb.org/t/p/w500/sKNIwY6UENCJ36FvYvnBW3Vdzt7.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/nl18gyzai02Tu99VkURu7kCFrR8.jpg",
+      "description": "When a new enemy threatens the innocent, Hercules must lead his fearless team of warriors in a battle against overwhelming odds.",
+      "releaseInfo": "2014",
+      "genres": [
+        "Action",
+        "Adventure"
       ]
     },
     {
@@ -57,85 +56,86 @@
       ]
     },
     {
-      "id": "tmdb:333484",
+      "id": "tmdb:1064213",
       "type": "movie",
-      "name": "The Magnificent Seven",
-      "poster": "https://image.tmdb.org/t/p/w500/ezcS78TIjgr85pVdaPDd2rSPVNs.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/4qxZJRYe4ezA5J1sidnV7vuaYaz.jpg",
-      "description": "Looking to mine for gold, greedy industrialist Bartholomew Bogue seizes control of the Old West town of Rose Creek. With their lives in jeopardy, Emma Cullen and other desperate residents turn to bounty hunter Sam Chisolm for help. Chisolm recruits an eclectic group of gunslingers to take on Bogue and his ruthless henchmen. With a deadly showdown on the horizon, the seven mercenaries soon find themselves fighting for more than just money once the bullets start to fly.",
-      "releaseInfo": "2016",
-      "genres": [
-        "Adventure",
-        "Action",
-        "Western"
-      ]
-    },
-    {
-      "id": "tmdb:1319522",
-      "type": "movie",
-      "name": "Gohan",
-      "poster": "https://image.tmdb.org/t/p/w500/nVq1Dn88NzVIVTDpGZeP7fxpLa1.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/gkb6yj4lRIkOQcLuni8V59YvKex.jpg",
-      "description": "The bonds between humans and animals following a stray dog named Gohan as it moves through life with temporary owners over a decade, through good times and bad times, joy and sorrow, hellos and goodbyes.",
-      "releaseInfo": "2026",
-      "genres": [
-        "Drama"
-      ]
-    },
-    {
-      "id": "tmdb:1631807",
-      "type": "movie",
-      "name": "The Secret Woman",
-      "poster": "https://image.tmdb.org/t/p/w500/5FC5vUHFz0fbJOd0bhyzJpCSLrc.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/ziOpmyZufqM7IusfThzBr1E9wqa.jpg",
-      "description": "After discovering she has a family and a shipping empire, a woman with amnesia returns to a wealthy and seemingly perfect past to uncover why she left.",
-      "releaseInfo": "2026",
+      "name": "Anora",
+      "poster": "https://image.tmdb.org/t/p/w500/cgXk2tNYhJZLXdBDO5DidAVzQ82.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/qvyOfwTC3qdbzkqdXWSSEMHtjBZ.jpg",
+      "description": "A young sex worker from Brooklyn gets her chance at a Cinderella story when she meets and impulsively marries the son of an oligarch. Once the news reaches Russia, her fairytale is threatened as his parents set out to get the marriage annulled.",
+      "releaseInfo": "2024",
       "genres": [
         "Drama",
-        "Thriller",
-        "Mystery"
+        "Comedy",
+        "Romance"
       ]
     },
     {
-      "id": "tmdb:14161",
+      "id": "tmdb:72387",
       "type": "movie",
-      "name": "2012",
-      "poster": "https://image.tmdb.org/t/p/w500/c2PkTPT5D9zB8SIm5wNlDAANEqM.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/4P71rDf6roxVskbvdcbNayVMpXd.jpg",
-      "description": "Dr. Adrian Helmsley, part of a worldwide geophysical team investigating the effect on the earth of radiation from unprecedented solar storms, learns that the earth's core is heating up. He warns U.S. President Thomas Wilson that the crust of the earth is becoming unstable and that without proper preparations for saving a fraction of the world's population, the entire race is doomed. Meanwhile, writer Jackson Curtis stumbles on the same information. While the world's leaders race to build \"arks\" to escape the impending cataclysm, Curtis struggles to find a way to save his family. Meanwhile, volcanic eruptions and earthquakes of unprecedented strength wreak havoc around the world.",
-      "releaseInfo": "2009",
+      "name": "Safe",
+      "poster": "https://image.tmdb.org/t/p/w500/kOCpkoMUVae9UIf85gO71SyjLbW.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/gc150q5RMjq5vXJddBk90dXFvlr.jpg",
+      "description": "After a former elite agent rescues a 12-year-old Chinese girl who's been abducted, they find themselves in the middle of a standoff between Triads, the Russian Mafia and high-level corrupt New York City politicians and police.",
+      "releaseInfo": "2012",
       "genres": [
         "Action",
-        "Adventure",
-        "Science Fiction"
-      ]
-    },
-    {
-      "id": "tmdb:19543",
-      "type": "movie",
-      "name": "Anacondas: Trail of Blood",
-      "poster": "https://image.tmdb.org/t/p/w500/916jenbMstGCE20hceYDTo8psf4.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/zzJxwLTX5QCWkWsq7RnRhNKFBBo.jpg",
-      "description": "A genetically created Anaconda, cut in half, regenerates itself into two new aggressive giant snakes, due to the Blood Orchid.",
-      "releaseInfo": "2009",
-      "genres": [
-        "Adventure",
-        "Horror",
-        "Thriller",
-        "TV Movie"
-      ]
-    },
-    {
-      "id": "tmdb:9924",
-      "type": "movie",
-      "name": "The Hard Corps",
-      "poster": "https://image.tmdb.org/t/p/w500/jrFtbuUMDMnJtlSVg5DWHFhMMGp.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/1q4EFc0LB7cI24qnZ8DcQ3bUwk0.jpg",
-      "description": "An Army veteran assembles a team of bodyguards to protect a former boxer. Complications arise when the boxer suspects his sister may be romantically involved with the bodyguard.",
-      "releaseInfo": "2005",
-      "genres": [
-        "Action",
+        "Crime",
         "Thriller"
+      ]
+    },
+    {
+      "id": "tmdb:652",
+      "type": "movie",
+      "name": "Troy",
+      "poster": "https://image.tmdb.org/t/p/w500/a07wLy4ONfpsjnBqMwhlWTJTcm.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/ZPcC5hJh21QiW0jmhMQhZeSoGu.jpg",
+      "description": "In year 1250 B.C. during the late Bronze age, two emerging nations begin to clash. Paris, the Trojan prince, convinces Helen, Queen of Sparta, to leave her husband Menelaus, and sail with him back to Troy. After Menelaus finds out that his wife was taken by the Trojans, he asks his brother Agamemnon to help him get her back. Agamemnon sees this as an opportunity for power. They set off with 1,000 ships holding 50,000 Greeks to Troy.",
+      "releaseInfo": "2004",
+      "genres": [
+        "Action",
+        "Adventure"
+      ]
+    },
+    {
+      "id": "tmdb:860508",
+      "type": "movie",
+      "name": "The Whisper Man",
+      "poster": "https://image.tmdb.org/t/p/w500/ndRs5lADYm0PeVjuOxaMcInY0o2.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/uauoVKKCkNA9iWjgJCL8TdSfLf5.jpg",
+      "description": "When his young son vanishes, a widower enlists help from his estranged father, a retired detective who put away the serial killer now linked to the case.",
+      "releaseInfo": "2026",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Thriller"
+      ]
+    },
+    {
+      "id": "tmdb:12113",
+      "type": "movie",
+      "name": "Body of Lies",
+      "poster": "https://image.tmdb.org/t/p/w500/sLjVDPPfNQfAma9XyOqHPClQb2V.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/6ghc2ySuEnTW8h3YgZZufk2SOTv.jpg",
+      "description": "The CIA’s hunt is on for the mastermind of a wave of terrorist attacks. Roger Ferris is the agency’s man on the ground, moving from place to place, scrambling to stay ahead of ever-shifting events. An eye in the sky – a satellite link – watches Ferris.  At the other end of that real-time link is the CIA’s Ed Hoffman, strategizing events from thousands of miles away. And as Ferris nears the target, he discovers trust can be just as dangerous as it is necessary for survival.",
+      "releaseInfo": "2008",
+      "genres": [
+        "Action",
+        "Drama",
+        "Thriller"
+      ]
+    },
+    {
+      "id": "tmdb:1569555",
+      "type": "movie",
+      "name": "Fish, Fists and Ambergris",
+      "poster": "https://image.tmdb.org/t/p/w500/7fHlcEovyJY1YhTd8FaJXj1mUk8.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/ociHIRRo2HNgRG2et4nDyNyTrM5.jpg",
+      "description": "The treasured relic of Long Diên Hương fishing village is stolen, setting off a thrilling pursuit. Beyond its spectacular martial arts sequences, the film delivers laughter, unity, and the heartfelt human values of the coastal villagers.",
+      "releaseInfo": "2025",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Comedy"
       ]
     }
   ]
