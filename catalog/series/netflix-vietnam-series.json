@@ -27,6 +27,20 @@
       ]
     },
     {
+      "id": "tmdb:236235",
+      "type": "series",
+      "name": "The Gentlemen",
+      "poster": "https://image.tmdb.org/t/p/w500/tw3tzfXaSpmUZIB8ZNqNEGzMBCy.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/yG1wltFmkX5c5ocACKfpX0tp3SY.jpg",
+      "description": "When aristocratic Eddie inherits the family estate, he discovers that it's home to an enormous weed empire — and its proprietors aren't going anywhere.",
+      "releaseInfo": "2024",
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Crime"
+      ]
+    },
+    {
       "id": "tmdb:305644",
       "type": "series",
       "name": "Four Hands, Two Sonatas",
@@ -66,34 +80,6 @@
       ]
     },
     {
-      "id": "tmdb:236235",
-      "type": "series",
-      "name": "The Gentlemen",
-      "poster": "https://image.tmdb.org/t/p/w500/tw3tzfXaSpmUZIB8ZNqNEGzMBCy.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/yG1wltFmkX5c5ocACKfpX0tp3SY.jpg",
-      "description": "When aristocratic Eddie inherits the family estate, he discovers that it's home to an enormous weed empire — and its proprietors aren't going anywhere.",
-      "releaseInfo": "2024",
-      "genres": [
-        "Comedy",
-        "Drama",
-        "Crime"
-      ]
-    },
-    {
-      "id": "tmdb:298610",
-      "type": "series",
-      "name": "Spooky in Love",
-      "poster": "https://image.tmdb.org/t/p/w500/acVOH8Pr5LEZ7WKZCbzwNuHVr9x.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/p9tpGftvG18M5y5wsBmPrQpVBsd.jpg",
-      "description": "When a ghost-seeing heir and an ace prosecutor learn that a single touch makes them a strangely effective duo, they team up to crack unsolved murders.",
-      "releaseInfo": "2026",
-      "genres": [
-        "Comedy",
-        "Sci-Fi & Fantasy",
-        "Drama"
-      ]
-    },
-    {
       "id": "tmdb:276161",
       "type": "series",
       "name": "Teach You a Lesson",
@@ -105,34 +91,6 @@
         "Action & Adventure",
         "Drama",
         "Comedy"
-      ]
-    },
-    {
-      "id": "tmdb:229891",
-      "type": "series",
-      "name": "Can This Love Be Translated?",
-      "poster": "https://image.tmdb.org/t/p/w500/zgUh4cgalSzBjbsT5P0qmU7Rjzk.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/svnZYhAboLrwHEtkKRm2mIdjocB.jpg",
-      "description": "The emotions of a celebrity and her interpreter get lost in translation as they travel the world filming a TV show. Will love find its own language?",
-      "releaseInfo": "2026",
-      "genres": [
-        "Drama",
-        "Comedy"
-      ]
-    },
-    {
-      "id": "tmdb:279323",
-      "type": "series",
-      "name": "The East Palace",
-      "poster": "https://image.tmdb.org/t/p/w500/yfYohBszGqoAW8oM0qydOtJ4kPh.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/8PHBAdPyfIwS5W6cfKLhItEb875.jpg",
-      "description": "A man who walks the spirit world and a court lady who hears the dead enter the East Palace by the king's orders — can they unravel its dark secrets?",
-      "releaseInfo": "2026",
-      "genres": [
-        "Mystery",
-        "Action & Adventure",
-        "Sci-Fi & Fantasy",
-        "Drama"
       ]
     }
   ]
