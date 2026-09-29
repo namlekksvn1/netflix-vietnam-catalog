@@ -1,6 +1,20 @@
 {
   "metas": [
     {
+      "id": "tmdb:1422004",
+      "type": "movie",
+      "name": "Bunny!",
+      "poster": "https://image.tmdb.org/t/p/w500/gFPGHCC7yJrtoL6C3jlcXhutq3y.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/4CJiw5bAYHBa9XZJ2QdTlQW7KKA.jpg",
+      "description": "Two best friends rally the neighbors in their tenement building to help them hide a dead body over the best/worst night of their lives.",
+      "releaseInfo": "2025",
+      "genres": [
+        "Crime",
+        "Comedy",
+        "Thriller"
+      ]
+    },
+    {
       "id": "tmdb:11951",
       "type": "movie",
       "name": "Vanishing Point",
@@ -13,19 +27,6 @@
         "Crime",
         "Drama",
         "Thriller"
-      ]
-    },
-    {
-      "id": "tmdb:17038",
-      "type": "movie",
-      "name": "Lake Placid 2",
-      "poster": "https://image.tmdb.org/t/p/w500/8XJlJZClpMi48PB51NXt5ZWm4Vr.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/u1bsHeDuH96NLcWCskUsiHQj6HJ.jpg",
-      "description": "Man-eating crocodiles return to the lake as two males and one aggressive female crocodile, which is protecting her nest, wreak havoc on the locals.",
-      "releaseInfo": "2007",
-      "genres": [
-        "Horror",
-        "Science Fiction"
       ]
     },
     {
@@ -42,17 +43,16 @@
       ]
     },
     {
-      "id": "tmdb:1528577",
+      "id": "tmdb:455207",
       "type": "movie",
-      "name": "Bunny!",
-      "poster": "https://image.tmdb.org/t/p/w500/xoz3AcRfLpT3m780dAJweHX1JcH.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/wDUrTRRXh7DzhZtTI1YkAkTc89S.jpg",
-      "description": "A host of a relationship advice television programme starts to see cracks in her own marriage after the appearance of a mysterious guest.",
-      "releaseInfo": "2026",
+      "name": "Crazy Rich Asians",
+      "poster": "https://image.tmdb.org/t/p/w500/1XxL4LJ5WHdrcYcihEZUCgNCpAW.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/zeHB7aP46Xs3u4aFLuAq2GFeUGb.jpg",
+      "description": "An American-born Chinese economics professor accompanies her boyfriend to Singapore for his best friend's wedding, only to get thrust into the lives of Asia's rich and famous.",
+      "releaseInfo": "2018",
       "genres": [
-        "Romance",
-        "Drama",
-        "Thriller"
+        "Comedy",
+        "Romance"
       ]
     },
     {
@@ -70,17 +70,30 @@
       ]
     },
     {
-      "id": "tmdb:72387",
+      "id": "tmdb:1569555",
       "type": "movie",
-      "name": "Safe",
-      "poster": "https://image.tmdb.org/t/p/w500/kOCpkoMUVae9UIf85gO71SyjLbW.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/gc150q5RMjq5vXJddBk90dXFvlr.jpg",
-      "description": "After a former elite agent rescues a 12-year-old Chinese girl who's been abducted, they find themselves in the middle of a standoff between Triads, the Russian Mafia and high-level corrupt New York City politicians and police.",
-      "releaseInfo": "2012",
+      "name": "Fish, Fists and Ambergris",
+      "poster": "https://image.tmdb.org/t/p/w500/7fHlcEovyJY1YhTd8FaJXj1mUk8.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/ociHIRRo2HNgRG2et4nDyNyTrM5.jpg",
+      "description": "The treasured relic of Long Diên Hương fishing village is stolen, setting off a thrilling pursuit. Beyond its spectacular martial arts sequences, the film delivers laughter, unity, and the heartfelt human values of the coastal villagers.",
+      "releaseInfo": "2025",
       "genres": [
         "Action",
-        "Crime",
-        "Thriller"
+        "Adventure",
+        "Comedy"
+      ]
+    },
+    {
+      "id": "tmdb:1391703",
+      "type": "movie",
+      "name": "The 4 Rascals",
+      "poster": "https://image.tmdb.org/t/p/w500/xfCtJdLp6lZiBZhrr9OCGhFWXyu.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/1c675BVbmNm1OoshmUWlL3wsgNt.jpg",
+      "description": "When her boyfriend grows close to a wealthy new colleague, a woman and her friends set out to expose the woman's true motives.",
+      "releaseInfo": "2025",
+      "genres": [
+        "Comedy",
+        "Romance"
       ]
     },
     {
@@ -97,45 +110,30 @@
       ]
     },
     {
-      "id": "tmdb:860508",
+      "id": "tmdb:1608445",
       "type": "movie",
-      "name": "The Whisper Man",
-      "poster": "https://image.tmdb.org/t/p/w500/ndRs5lADYm0PeVjuOxaMcInY0o2.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/uauoVKKCkNA9iWjgJCL8TdSfLf5.jpg",
-      "description": "When his young son vanishes, a widower enlists help from his estranged father, a retired detective who put away the serial killer now linked to the case.",
+      "name": "Tarung: Unforgiven",
+      "poster": "https://image.tmdb.org/t/p/w500/6211pgZ7M5fp5ETaqKjCqGqcpq4.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/dYcd4GlqPQ923Xx6xMBNHoDIJrH.jpg",
+      "description": "After unintentionally causing the death of his opponent during a martial arts tournament, Hatta vows to never participate in any fighting tournament again. However, when his only sister becomes seriously ill and requires costly medical treatment, he is offered 'financial assistance' by a head of mobsters in return for Hatta fighting for him in the underworld fighting ring.",
       "releaseInfo": "2026",
       "genres": [
+        "Action",
         "Crime",
-        "Drama",
-        "Thriller"
+        "Drama"
       ]
     },
     {
-      "id": "tmdb:12113",
+      "id": "tmdb:1210973",
       "type": "movie",
-      "name": "Body of Lies",
-      "poster": "https://image.tmdb.org/t/p/w500/sLjVDPPfNQfAma9XyOqHPClQb2V.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/6ghc2ySuEnTW8h3YgZZufk2SOTv.jpg",
-      "description": "The CIA’s hunt is on for the mastermind of a wave of terrorist attacks. Roger Ferris is the agency’s man on the ground, moving from place to place, scrambling to stay ahead of ever-shifting events. An eye in the sky – a satellite link – watches Ferris.  At the other end of that real-time link is the CIA’s Ed Hoffman, strategizing events from thousands of miles away. And as Ferris nears the target, he discovers trust can be just as dangerous as it is necessary for survival.",
-      "releaseInfo": "2008",
+      "name": "Mai",
+      "poster": "https://image.tmdb.org/t/p/w500/uFsn8qBEzbeJCqH0LsViwPom5ww.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/zZ6nRdNQNxRnZ1LQ2ttPBZl9AXV.jpg",
+      "description": "When a struggling single mother falls for a wealthy heartbreaker, their risky romance could just turn their lives around — or tear their worlds apart.",
+      "releaseInfo": "2024",
       "genres": [
-        "Action",
-        "Drama",
-        "Thriller"
-      ]
-    },
-    {
-      "id": "tmdb:1569555",
-      "type": "movie",
-      "name": "Fish, Fists and Ambergris",
-      "poster": "https://image.tmdb.org/t/p/w500/7fHlcEovyJY1YhTd8FaJXj1mUk8.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/ociHIRRo2HNgRG2et4nDyNyTrM5.jpg",
-      "description": "The treasured relic of Long Diên Hương fishing village is stolen, setting off a thrilling pursuit. Beyond its spectacular martial arts sequences, the film delivers laughter, unity, and the heartfelt human values of the coastal villagers.",
-      "releaseInfo": "2025",
-      "genres": [
-        "Action",
-        "Adventure",
-        "Comedy"
+        "Romance",
+        "Drama"
       ]
     }
   ]
