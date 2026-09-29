@@ -13,6 +13,42 @@
       ]
     },
     {
+      "id": "tmdb:275102",
+      "type": "series",
+      "name": "The Scandal",
+      "poster": "https://image.tmdb.org/t/p/w500/4TU0PcHBIl0wPW5B6aVRGExOnHE.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/uc1p1PEbEMpdIHqnU9TESNC6Jhp.jpg",
+      "description": "In Joseon, a secret proposal ignites hidden desires in a gifted noblewoman, a famed lover and an unsuspecting lady caught in their dangerous game.",
+      "releaseInfo": "2026",
+      "genres": [
+        "Drama"
+      ]
+    },
+    {
+      "id": "tmdb:305644",
+      "type": "series",
+      "name": "Four Hands, Two Sonatas",
+      "poster": "https://image.tmdb.org/t/p/w500/a7p6htiJKx68USDAcilJ5rzKAWB.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/fYL4I6cezb06BHhQlrNjNhy7jhf.jpg",
+      "description": "When two young pianists from completely different worlds meet at an elite music high school, the melodies of their lives become intimately intertwined.",
+      "releaseInfo": "2026",
+      "genres": [
+        "Drama"
+      ]
+    },
+    {
+      "id": "tmdb:300507",
+      "type": "series",
+      "name": "Crew Girl",
+      "poster": "https://image.tmdb.org/t/p/w500/jkPZW1iHNvlI6077NxSxwITa1tj.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/lmtTtOjsIBxwKD7LsAD5eeyhq1g.jpg",
+      "description": "After a family scandal, teen rower Teagan Tao moves to a small town and joins an elite prep school's all-boys crew, sparking rivalry and attraction.",
+      "releaseInfo": "2026",
+      "genres": [
+        "Drama"
+      ]
+    },
+    {
       "id": "tmdb:290193",
       "type": "series",
       "name": "Mousetrap",
@@ -41,15 +77,16 @@
       ]
     },
     {
-      "id": "tmdb:305644",
+      "id": "tmdb:299939",
       "type": "series",
-      "name": "Four Hands, Two Sonatas",
-      "poster": "https://image.tmdb.org/t/p/w500/a7p6htiJKx68USDAcilJ5rzKAWB.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/fYL4I6cezb06BHhQlrNjNhy7jhf.jpg",
-      "description": "When two young pianists from completely different worlds meet at an elite music high school, the melodies of their lives become intimately intertwined.",
+      "name": "Monster: The Lizzie Borden Story",
+      "poster": "https://image.tmdb.org/t/p/w500/57XScX1aYtKi1LvHYFQLPUxVhTG.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/gaew60NXUxok3Vmls7gkAT7lYW0.jpg",
+      "description": "Trapped in a cruel Victorian-era household, Lizzie Borden kills her parents in a gory ax murder that shocks the nation.",
       "releaseInfo": "2026",
       "genres": [
-        "Drama"
+        "Drama",
+        "Crime"
       ]
     },
     {
@@ -66,31 +103,17 @@
       ]
     },
     {
-      "id": "tmdb:296206",
+      "id": "tmdb:312663",
       "type": "series",
-      "name": "Agent Kim Reactivated",
-      "poster": "https://image.tmdb.org/t/p/w500/mxa7YxVln3Rwnd2Va82PoclTznj.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/g1LJLlmWP74zv9yXKEXm7g9p10O.jpg",
-      "description": "When an unassuming dad's daughter goes missing, he dusts off his old black-ops skills to track her down — only to attract the wrong kind of attention.",
+      "name": "The Fixers",
+      "poster": "https://image.tmdb.org/t/p/w500/hwEfhJNLii8oUfuiRBPk11DDv8y.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/iyHgIyMJ6Vd5w79dLeGOTOkqDS5.jpg",
+      "description": "A washed-up gangster reluctantly teams up with an arrogant political heir to become \"fixers\", cleaning up dangerous secrets for both sides of the law.",
       "releaseInfo": "2026",
       "genres": [
         "Action & Adventure",
-        "Crime",
-        "Drama"
-      ]
-    },
-    {
-      "id": "tmdb:276161",
-      "type": "series",
-      "name": "Teach You a Lesson",
-      "poster": "https://image.tmdb.org/t/p/w500/fMECSPrTmRClSViMsXFYmiYIcWP.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/vyG93jhmPL7tBIhRtCLa5mdBKob.jpg",
-      "description": "An inspector from the Educational Rights Protection Bureau (ERPB) who is authorized by the government to use physical intervention and unconventional methods to discipline delinquent students and reform the educational system.",
-      "releaseInfo": "2026",
-      "genres": [
-        "Action & Adventure",
-        "Drama",
-        "Comedy"
+        "Comedy",
+        "Crime"
       ]
     }
   ]
