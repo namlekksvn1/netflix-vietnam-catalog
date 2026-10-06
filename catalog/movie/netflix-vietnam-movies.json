@@ -1,48 +1,6 @@
 {
   "metas": [
     {
-      "id": "tmdb:1422004",
-      "type": "movie",
-      "name": "Bunny!",
-      "poster": "https://image.tmdb.org/t/p/w500/gFPGHCC7yJrtoL6C3jlcXhutq3y.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/4CJiw5bAYHBa9XZJ2QdTlQW7KKA.jpg",
-      "description": "Two best friends rally the neighbors in their tenement building to help them hide a dead body over the best/worst night of their lives.",
-      "releaseInfo": "2025",
-      "genres": [
-        "Crime",
-        "Comedy",
-        "Thriller"
-      ]
-    },
-    {
-      "id": "tmdb:11951",
-      "type": "movie",
-      "name": "Vanishing Point",
-      "poster": "https://image.tmdb.org/t/p/w500/1ThnpFx2G2HPhecvODGFEQxfOpO.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/sYn05iS9AxV9rsjqBSHrI4azji1.jpg",
-      "description": "Kowalski works for a car delivery service, and takes delivery of a 1970 Dodge Challenger to drive from Colorado to San Francisco. Shortly after pickup, he takes a bet to get the car there in less than 15 hours.",
-      "releaseInfo": "1971",
-      "genres": [
-        "Action",
-        "Crime",
-        "Drama",
-        "Thriller"
-      ]
-    },
-    {
-      "id": "tmdb:184315",
-      "type": "movie",
-      "name": "Hercules",
-      "poster": "https://image.tmdb.org/t/p/w500/sKNIwY6UENCJ36FvYvnBW3Vdzt7.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/nl18gyzai02Tu99VkURu7kCFrR8.jpg",
-      "description": "When a new enemy threatens the innocent, Hercules must lead his fearless team of warriors in a battle against overwhelming odds.",
-      "releaseInfo": "2014",
-      "genres": [
-        "Action",
-        "Adventure"
-      ]
-    },
-    {
       "id": "tmdb:455207",
       "type": "movie",
       "name": "Crazy Rich Asians",
@@ -56,17 +14,75 @@
       ]
     },
     {
-      "id": "tmdb:1064213",
+      "id": "tmdb:950387",
       "type": "movie",
-      "name": "Anora",
-      "poster": "https://image.tmdb.org/t/p/w500/cgXk2tNYhJZLXdBDO5DidAVzQ82.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/qvyOfwTC3qdbzkqdXWSSEMHtjBZ.jpg",
-      "description": "A young sex worker from Brooklyn gets her chance at a Cinderella story when she meets and impulsively marries the son of an oligarch. Once the news reaches Russia, her fairytale is threatened as his parents set out to get the marriage annulled.",
-      "releaseInfo": "2024",
+      "name": "A Minecraft Movie",
+      "poster": "https://image.tmdb.org/t/p/w500/yFHHfHcUgGAxziP1C3lLt0q2T4s.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/2Nti3gYAX513wvhp8IiLL6ZDyOm.jpg",
+      "description": "Four misfits find themselves struggling with ordinary problems when they are suddenly pulled through a mysterious portal into the Overworld: a bizarre, cubic wonderland that thrives on imagination. To get back home, they'll have to master this world while embarking on a magical quest with an unexpected, expert crafter, Steve.",
+      "releaseInfo": "2025",
       "genres": [
-        "Drama",
+        "Family",
+        "Fantasy",
         "Comedy",
-        "Romance"
+        "Adventure"
+      ]
+    },
+    {
+      "id": "tmdb:1528577",
+      "type": "movie",
+      "name": "Bunny!",
+      "poster": "https://image.tmdb.org/t/p/w500/xoz3AcRfLpT3m780dAJweHX1JcH.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/wDUrTRRXh7DzhZtTI1YkAkTc89S.jpg",
+      "description": "A host of a relationship advice television programme starts to see cracks in her own marriage after the appearance of a mysterious guest.",
+      "releaseInfo": "2026",
+      "genres": [
+        "Romance",
+        "Drama",
+        "Thriller"
+      ]
+    },
+    {
+      "id": "tmdb:9470",
+      "type": "movie",
+      "name": "Kung Fu Hustle",
+      "poster": "https://image.tmdb.org/t/p/w500/exbyTbrvRUDKN2mcNEuVor4VFQW.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/9XhZhoSnFJ3AjpfzdIiZVHLQIS4.jpg",
+      "description": "It's the 1940s, and the notorious Axe Gang terrorizes Shanghai. Small-time criminals Sing and Bone hope to join, but they only manage to make lots of very dangerous enemies. Fortunately for them, kung fu masters and hidden strength can be found in unlikely places. Now they just have to take on the entire Axe Gang.",
+      "releaseInfo": "2004",
+      "genres": [
+        "Action",
+        "Comedy",
+        "Crime",
+        "Fantasy"
+      ]
+    },
+    {
+      "id": "tmdb:141052",
+      "type": "movie",
+      "name": "Justice League",
+      "poster": "https://image.tmdb.org/t/p/w500/eifGNCSDuxJeS1loAXil5bIGgvC.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/2nyaeISu2xIxIgZYNpX4UayY8PN.jpg",
+      "description": "Fuelled by his restored faith in humanity and inspired by Superman's selfless act, Bruce Wayne and Diana Prince assemble a team of metahumans consisting of Barry Allen, Arthur Curry and Victor Stone to face the catastrophic threat of Steppenwolf and the Parademons who are on the hunt for three Mother Boxes on Earth.",
+      "releaseInfo": "2017",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Science Fiction"
+      ]
+    },
+    {
+      "id": "tmdb:1492640",
+      "type": "movie",
+      "name": "UNABOMBER",
+      "poster": "https://image.tmdb.org/t/p/w500/39aMkR8Y5vhCG9dTkjiqRl8AVqp.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/58D9nalUYW5L5K0guw7hcpsEJBH.jpg",
+      "description": "Follow Ted Kaczynski's transformation from Harvard prodigy into the infamous Unabomber. Subjected to controversial psychological experiments by Professor Henry Murray, Kaczynski's troubled past resurfaces decades later when his manhunt, led by FBI agent Joanne Miller, brings to light the chilling consequences of ambition and isolation.",
+      "releaseInfo": "2026",
+      "genres": [
+        "Thriller",
+        "Drama",
+        "Crime"
       ]
     },
     {
@@ -97,30 +113,17 @@
       ]
     },
     {
-      "id": "tmdb:652",
+      "id": "tmdb:1226406",
       "type": "movie",
-      "name": "Troy",
-      "poster": "https://image.tmdb.org/t/p/w500/a07wLy4ONfpsjnBqMwhlWTJTcm.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/ZPcC5hJh21QiW0jmhMQhZeSoGu.jpg",
-      "description": "In year 1250 B.C. during the late Bronze age, two emerging nations begin to clash. Paris, the Trojan prince, convinces Helen, Queen of Sparta, to leave her husband Menelaus, and sail with him back to Troy. After Menelaus finds out that his wife was taken by the Trojans, he asks his brother Agamemnon to help him get her back. Agamemnon sees this as an opportunity for power. They set off with 1,000 ships holding 50,000 Greeks to Troy.",
-      "releaseInfo": "2004",
+      "name": "Love Hurts",
+      "poster": "https://image.tmdb.org/t/p/w500/skPPVeHoTTVVSJlb0Ib5vrqiuA4.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/aGgr2Q07AcyiWPGODoofgZDUEHp.jpg",
+      "description": "A realtor is pulled back into the life he left behind after his former partner-in-crime resurfaces with an ominous message. With his crime-lord brother also on his trail, he must confront his past and the history he never fully buried.",
+      "releaseInfo": "2025",
       "genres": [
         "Action",
-        "Adventure"
-      ]
-    },
-    {
-      "id": "tmdb:1608445",
-      "type": "movie",
-      "name": "Tarung: Unforgiven",
-      "poster": "https://image.tmdb.org/t/p/w500/6211pgZ7M5fp5ETaqKjCqGqcpq4.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/dYcd4GlqPQ923Xx6xMBNHoDIJrH.jpg",
-      "description": "After unintentionally causing the death of his opponent during a martial arts tournament, Hatta vows to never participate in any fighting tournament again. However, when his only sister becomes seriously ill and requires costly medical treatment, he is offered 'financial assistance' by a head of mobsters in return for Hatta fighting for him in the underworld fighting ring.",
-      "releaseInfo": "2026",
-      "genres": [
-        "Action",
-        "Crime",
-        "Drama"
+        "Comedy",
+        "Romance"
       ]
     },
     {
