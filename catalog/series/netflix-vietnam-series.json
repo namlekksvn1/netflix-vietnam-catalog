@@ -1,6 +1,18 @@
 {
   "metas": [
     {
+      "id": "tmdb:275102",
+      "type": "series",
+      "name": "The Scandal",
+      "poster": "https://image.tmdb.org/t/p/w500/4TU0PcHBIl0wPW5B6aVRGExOnHE.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/uc1p1PEbEMpdIHqnU9TESNC6Jhp.jpg",
+      "description": "In Joseon, a secret proposal ignites hidden desires in a gifted noblewoman, a famed lover and an unsuspecting lady caught in their dangerous game.",
+      "releaseInfo": "2026",
+      "genres": [
+        "Drama"
+      ]
+    },
+    {
       "id": "tmdb:299952",
       "type": "series",
       "name": "The Early Spring",
@@ -13,15 +25,16 @@
       ]
     },
     {
-      "id": "tmdb:275102",
+      "id": "tmdb:299939",
       "type": "series",
-      "name": "The Scandal",
-      "poster": "https://image.tmdb.org/t/p/w500/4TU0PcHBIl0wPW5B6aVRGExOnHE.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/uc1p1PEbEMpdIHqnU9TESNC6Jhp.jpg",
-      "description": "In Joseon, a secret proposal ignites hidden desires in a gifted noblewoman, a famed lover and an unsuspecting lady caught in their dangerous game.",
+      "name": "Monster: The Lizzie Borden Story",
+      "poster": "https://image.tmdb.org/t/p/w500/57XScX1aYtKi1LvHYFQLPUxVhTG.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/gaew60NXUxok3Vmls7gkAT7lYW0.jpg",
+      "description": "Trapped in a cruel Victorian-era household, Lizzie Borden kills her parents in a gory ax murder that shocks the nation.",
       "releaseInfo": "2026",
       "genres": [
-        "Drama"
+        "Drama",
+        "Crime"
       ]
     },
     {
@@ -37,6 +50,32 @@
       ]
     },
     {
+      "id": "tmdb:298008",
+      "type": "series",
+      "name": "Plastic Beauty",
+      "poster": "https://image.tmdb.org/t/p/w500/u0mCeqVvQW2HEfrRy1we9UklsQd.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/mIjERiWlnDzQWHTcZdtucLmTCeO.jpg",
+      "description": "When a gifted ER surgeon is thrust into cosmetic medicine, her clash with a celebrity doctor exposes the greed and desire beneath the glamour.",
+      "releaseInfo": "2026",
+      "genres": [
+        "Drama"
+      ]
+    },
+    {
+      "id": "tmdb:312663",
+      "type": "series",
+      "name": "The Fixers",
+      "poster": "https://image.tmdb.org/t/p/w500/hwEfhJNLii8oUfuiRBPk11DDv8y.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/iyHgIyMJ6Vd5w79dLeGOTOkqDS5.jpg",
+      "description": "A washed-up gangster reluctantly teams up with an arrogant political heir to become \"fixers\", cleaning up dangerous secrets for both sides of the law.",
+      "releaseInfo": "2026",
+      "genres": [
+        "Action & Adventure",
+        "Comedy",
+        "Crime"
+      ]
+    },
+    {
       "id": "tmdb:300507",
       "type": "series",
       "name": "Crew Girl",
@@ -49,17 +88,16 @@
       ]
     },
     {
-      "id": "tmdb:290193",
+      "id": "tmdb:291496",
       "type": "series",
-      "name": "Mousetrap",
-      "poster": "https://image.tmdb.org/t/p/w500/2mwgHfOyrFrmvozjFoEXHRdfGhv.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/3bHz9dYSZ5XDxY0zDaBpYgUOhE2.jpg",
-      "description": "A reclusive writer wakes to find his identity stolen — and must ally with a ruthless loan shark to reclaim his life from a man known as \"The Rat.\"",
+      "name": "Our Sticky Love",
+      "poster": "https://image.tmdb.org/t/p/w500/tSZ4aFpTGc8Oj52SuzPUUZ7WKL0.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/mp2AFsWsuyxCzenJh3DTKw7z4jG.jpg",
+      "description": "An ambitious prosecutor loses her memory and moves in with a boxing coach who claims to be her boyfriend. Can this sticky situation turn into real love?",
       "releaseInfo": "2026",
       "genres": [
-        "Crime",
         "Drama",
-        "Mystery"
+        "Comedy"
       ]
     },
     {
@@ -77,43 +115,17 @@
       ]
     },
     {
-      "id": "tmdb:299939",
+      "id": "tmdb:290193",
       "type": "series",
-      "name": "Monster: The Lizzie Borden Story",
-      "poster": "https://image.tmdb.org/t/p/w500/57XScX1aYtKi1LvHYFQLPUxVhTG.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/gaew60NXUxok3Vmls7gkAT7lYW0.jpg",
-      "description": "Trapped in a cruel Victorian-era household, Lizzie Borden kills her parents in a gory ax murder that shocks the nation.",
+      "name": "Mousetrap",
+      "poster": "https://image.tmdb.org/t/p/w500/2mwgHfOyrFrmvozjFoEXHRdfGhv.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/3bHz9dYSZ5XDxY0zDaBpYgUOhE2.jpg",
+      "description": "A reclusive writer wakes to find his identity stolen — and must ally with a ruthless loan shark to reclaim his life from a man known as \"The Rat.\"",
       "releaseInfo": "2026",
       "genres": [
+        "Crime",
         "Drama",
-        "Crime"
-      ]
-    },
-    {
-      "id": "tmdb:291496",
-      "type": "series",
-      "name": "Our Sticky Love",
-      "poster": "https://image.tmdb.org/t/p/w500/tSZ4aFpTGc8Oj52SuzPUUZ7WKL0.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/mp2AFsWsuyxCzenJh3DTKw7z4jG.jpg",
-      "description": "An ambitious prosecutor loses her memory and moves in with a boxing coach who claims to be her boyfriend. Can this sticky situation turn into real love?",
-      "releaseInfo": "2026",
-      "genres": [
-        "Drama",
-        "Comedy"
-      ]
-    },
-    {
-      "id": "tmdb:312663",
-      "type": "series",
-      "name": "The Fixers",
-      "poster": "https://image.tmdb.org/t/p/w500/hwEfhJNLii8oUfuiRBPk11DDv8y.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/iyHgIyMJ6Vd5w79dLeGOTOkqDS5.jpg",
-      "description": "A washed-up gangster reluctantly teams up with an arrogant political heir to become \"fixers\", cleaning up dangerous secrets for both sides of the law.",
-      "releaseInfo": "2026",
-      "genres": [
-        "Action & Adventure",
-        "Comedy",
-        "Crime"
+        "Mystery"
       ]
     }
   ]
