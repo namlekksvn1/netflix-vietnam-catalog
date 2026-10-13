@@ -1,45 +1,17 @@
 {
   "metas": [
     {
-      "id": "tmdb:455207",
+      "id": "tmdb:1492640",
       "type": "movie",
-      "name": "Crazy Rich Asians",
-      "poster": "https://image.tmdb.org/t/p/w500/1XxL4LJ5WHdrcYcihEZUCgNCpAW.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/zeHB7aP46Xs3u4aFLuAq2GFeUGb.jpg",
-      "description": "An American-born Chinese economics professor accompanies her boyfriend to Singapore for his best friend's wedding, only to get thrust into the lives of Asia's rich and famous.",
-      "releaseInfo": "2018",
-      "genres": [
-        "Comedy",
-        "Romance"
-      ]
-    },
-    {
-      "id": "tmdb:950387",
-      "type": "movie",
-      "name": "A Minecraft Movie",
-      "poster": "https://image.tmdb.org/t/p/w500/yFHHfHcUgGAxziP1C3lLt0q2T4s.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/2Nti3gYAX513wvhp8IiLL6ZDyOm.jpg",
-      "description": "Four misfits find themselves struggling with ordinary problems when they are suddenly pulled through a mysterious portal into the Overworld: a bizarre, cubic wonderland that thrives on imagination. To get back home, they'll have to master this world while embarking on a magical quest with an unexpected, expert crafter, Steve.",
-      "releaseInfo": "2025",
-      "genres": [
-        "Family",
-        "Fantasy",
-        "Comedy",
-        "Adventure"
-      ]
-    },
-    {
-      "id": "tmdb:1528577",
-      "type": "movie",
-      "name": "Bunny!",
-      "poster": "https://image.tmdb.org/t/p/w500/xoz3AcRfLpT3m780dAJweHX1JcH.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/wDUrTRRXh7DzhZtTI1YkAkTc89S.jpg",
-      "description": "A host of a relationship advice television programme starts to see cracks in her own marriage after the appearance of a mysterious guest.",
+      "name": "UNABOMBER",
+      "poster": "https://image.tmdb.org/t/p/w500/39aMkR8Y5vhCG9dTkjiqRl8AVqp.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/58D9nalUYW5L5K0guw7hcpsEJBH.jpg",
+      "description": "Follow Ted Kaczynski's transformation from Harvard prodigy into the infamous Unabomber. Subjected to controversial psychological experiments by Professor Henry Murray, Kaczynski's troubled past resurfaces decades later when his manhunt, led by FBI agent Joanne Miller, brings to light the chilling consequences of ambition and isolation.",
       "releaseInfo": "2026",
       "genres": [
-        "Romance",
+        "Thriller",
         "Drama",
-        "Thriller"
+        "Crime"
       ]
     },
     {
@@ -58,31 +30,45 @@
       ]
     },
     {
-      "id": "tmdb:141052",
+      "id": "tmdb:1528577",
       "type": "movie",
-      "name": "Justice League",
-      "poster": "https://image.tmdb.org/t/p/w500/eifGNCSDuxJeS1loAXil5bIGgvC.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/2nyaeISu2xIxIgZYNpX4UayY8PN.jpg",
-      "description": "Fuelled by his restored faith in humanity and inspired by Superman's selfless act, Bruce Wayne and Diana Prince assemble a team of metahumans consisting of Barry Allen, Arthur Curry and Victor Stone to face the catastrophic threat of Steppenwolf and the Parademons who are on the hunt for three Mother Boxes on Earth.",
-      "releaseInfo": "2017",
+      "name": "Bunny!",
+      "poster": "https://image.tmdb.org/t/p/w500/xoz3AcRfLpT3m780dAJweHX1JcH.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/wDUrTRRXh7DzhZtTI1YkAkTc89S.jpg",
+      "description": "A host of a relationship advice television programme starts to see cracks in her own marriage after the appearance of a mysterious guest.",
+      "releaseInfo": "2026",
       "genres": [
-        "Action",
-        "Adventure",
-        "Science Fiction"
+        "Romance",
+        "Drama",
+        "Thriller"
       ]
     },
     {
-      "id": "tmdb:1492640",
+      "id": "tmdb:274",
       "type": "movie",
-      "name": "UNABOMBER",
-      "poster": "https://image.tmdb.org/t/p/w500/39aMkR8Y5vhCG9dTkjiqRl8AVqp.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/58D9nalUYW5L5K0guw7hcpsEJBH.jpg",
-      "description": "Follow Ted Kaczynski's transformation from Harvard prodigy into the infamous Unabomber. Subjected to controversial psychological experiments by Professor Henry Murray, Kaczynski's troubled past resurfaces decades later when his manhunt, led by FBI agent Joanne Miller, brings to light the chilling consequences of ambition and isolation.",
-      "releaseInfo": "2026",
+      "name": "The Silence of the Lambs",
+      "poster": "https://image.tmdb.org/t/p/w500/uS9m8OBk1A8eM9I042bx8XXpqAq.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/mbOx1wxMLikzwWUO9TKAcFIy6op.jpg",
+      "description": "Clarice Starling is a top student at the FBI's training academy.  Jack Crawford wants Clarice to interview Dr. Hannibal Lecter, a brilliant psychiatrist who is also a violent psychopath, serving life behind bars for various acts of murder and cannibalism.  Crawford believes that Lecter may have insight into a case and that Starling, as an attractive young woman, may be just the bait to draw him out.",
+      "releaseInfo": "1991",
       "genres": [
+        "Crime",
         "Thriller",
-        "Drama",
-        "Crime"
+        "Drama"
+      ]
+    },
+    {
+      "id": "tmdb:564",
+      "type": "movie",
+      "name": "The Mummy",
+      "poster": "https://image.tmdb.org/t/p/w500/yhIsVvcUm7QxzLfT6HW2wLf5ajY.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/8zLS8p1tRyWFLRFfmgQq0j5WE6z.jpg",
+      "description": "Dashing legionnaire Rick O'Connell stumbles upon the hidden ruins of Hamunaptra while in the midst of a battle to claim the area in 1920s Egypt. It has been over three thousand years since former High Priest Imhotep suffered a fate worse than death as a punishment for a forbidden love—along with a curse that guarantees eternal doom upon the world if he is ever awoken.",
+      "releaseInfo": "1999",
+      "genres": [
+        "Adventure",
+        "Action",
+        "Fantasy"
       ]
     },
     {
@@ -100,43 +86,58 @@
       ]
     },
     {
-      "id": "tmdb:1391703",
+      "id": "tmdb:402900",
       "type": "movie",
-      "name": "The 4 Rascals",
-      "poster": "https://image.tmdb.org/t/p/w500/xfCtJdLp6lZiBZhrr9OCGhFWXyu.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/1c675BVbmNm1OoshmUWlL3wsgNt.jpg",
-      "description": "When her boyfriend grows close to a wealthy new colleague, a woman and her friends set out to expose the woman's true motives.",
-      "releaseInfo": "2025",
+      "name": "Ocean's 8",
+      "poster": "https://image.tmdb.org/t/p/w500/MvYpKlpFukTivnlBhizGbkAe3v.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/scQf03Fm3jeyv4FH04qvi4fp4wh.jpg",
+      "description": "Debbie Ocean, a criminal mastermind, gathers a crew of female thieves to pull off the heist of the century at New York's annual Met Gala.",
+      "releaseInfo": "2018",
+      "genres": [
+        "Crime",
+        "Comedy",
+        "Action"
+      ]
+    },
+    {
+      "id": "tmdb:455207",
+      "type": "movie",
+      "name": "Crazy Rich Asians",
+      "poster": "https://image.tmdb.org/t/p/w500/1XxL4LJ5WHdrcYcihEZUCgNCpAW.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/zeHB7aP46Xs3u4aFLuAq2GFeUGb.jpg",
+      "description": "An American-born Chinese economics professor accompanies her boyfriend to Singapore for his best friend's wedding, only to get thrust into the lives of Asia's rich and famous.",
+      "releaseInfo": "2018",
       "genres": [
         "Comedy",
         "Romance"
       ]
     },
     {
-      "id": "tmdb:1226406",
+      "id": "tmdb:18823",
       "type": "movie",
-      "name": "Love Hurts",
-      "poster": "https://image.tmdb.org/t/p/w500/skPPVeHoTTVVSJlb0Ib5vrqiuA4.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/aGgr2Q07AcyiWPGODoofgZDUEHp.jpg",
-      "description": "A realtor is pulled back into the life he left behind after his former partner-in-crime resurfaces with an ominous message. With his crime-lord brother also on his trail, he must confront his past and the history he never fully buried.",
-      "releaseInfo": "2025",
+      "name": "Clash of the Titans",
+      "poster": "https://image.tmdb.org/t/p/w500/6iHYLipwEyZUPNO8MM3l1yHDaFE.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/zRx1HyM1wF6wqEvxV12Ha2WrvlJ.jpg",
+      "description": "Born of a god but raised as a man, Perseus is helpless to save his family from Hades, vengeful god of the underworld. With nothing to lose, Perseus volunteers to lead a dangerous mission to defeat Hades before he can seize power from Zeus and unleash hell on earth. Battling unholy demons and fearsome beasts, Perseus and his warriors will only survive if Perseus accepts his power as a god, defies fate and creates his own destiny.",
+      "releaseInfo": "2010",
       "genres": [
+        "Adventure",
+        "Fantasy",
+        "Action"
+      ]
+    },
+    {
+      "id": "tmdb:1734",
+      "type": "movie",
+      "name": "The Mummy Returns",
+      "poster": "https://image.tmdb.org/t/p/w500/kdJsW7hcy1lrj7tdMPycTAQPAiR.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/7s7WkAFPBsMTprYMbqbgKoppQsR.jpg",
+      "description": "Rick and Evelyn O’Connell, along with their 8-year-old son Alex, discover the key to the legendary Scorpion King’s might: the fabled Bracelet of Anubis. Unfortunately, a newly resurrected Imhotep has designs on the bracelet as well, and isn’t above kidnapping its new bearer, Alex, to gain control of Anubis’s otherworldly army.",
+      "releaseInfo": "2001",
+      "genres": [
+        "Adventure",
         "Action",
-        "Comedy",
-        "Romance"
-      ]
-    },
-    {
-      "id": "tmdb:1210973",
-      "type": "movie",
-      "name": "Mai",
-      "poster": "https://image.tmdb.org/t/p/w500/uFsn8qBEzbeJCqH0LsViwPom5ww.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/zZ6nRdNQNxRnZ1LQ2ttPBZl9AXV.jpg",
-      "description": "When a struggling single mother falls for a wealthy heartbreaker, their risky romance could just turn their lives around — or tear their worlds apart.",
-      "releaseInfo": "2024",
-      "genres": [
-        "Romance",
-        "Drama"
+        "Fantasy"
       ]
     }
   ]
