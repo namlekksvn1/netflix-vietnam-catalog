@@ -1,12 +1,12 @@
 {
   "metas": [
     {
-      "id": "tmdb:275102",
+      "id": "tmdb:297982",
       "type": "series",
-      "name": "The Scandal",
-      "poster": "https://image.tmdb.org/t/p/w500/4TU0PcHBIl0wPW5B6aVRGExOnHE.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/uc1p1PEbEMpdIHqnU9TESNC6Jhp.jpg",
-      "description": "In Joseon, a secret proposal ignites hidden desires in a gifted noblewoman, a famed lover and an unsuspecting lady caught in their dangerous game.",
+      "name": "Irreplaceable",
+      "poster": "https://image.tmdb.org/t/p/w500/uvdFDRZUUZarJirBQAjYk2yIkMi.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/o91jmFILQk1UAqPbpEjT3D3OxoO.jpg",
+      "description": "After witnessing her mother's suicide following a divorce, Xu Chi defies her tragic fate by rising from an ordinary graduate to a sharp-witted top consultant. Drawn into the covert revenge scheme of seasoned partner Ye Xinzhi, who mentors her while navigating their growing mutual attraction, the duo confronts a crossroads when professional upheavals collide with their evolving bond.",
       "releaseInfo": "2026",
       "genres": [
         "Drama"
@@ -19,6 +19,18 @@
       "poster": "https://image.tmdb.org/t/p/w500/lGFngmJWMO4HTPcI0sUGKBAFqMe.jpg",
       "background": "https://image.tmdb.org/t/p/w1280/oUFUvEMCBP80e4eYsfVfxC8n7ih.jpg",
       "description": "New to Beijing, Shang Zhitao crosses paths with Luan Nian, a true creative genius. Bold and open-hearted, she grows stronger step by step and gradually breaks through the defenses around Luan's guarded heart. Drawn to each other, they find themselves caught in an intense, on-again, off-again relationship in the urban jungle. To love is to summon all your courage and leave no regrets, to heal each other, and to grow together. But when love and her career pull her in different directions, she puts her career first. When she has come into her own and he has learned to soften his sharp edges, they finally stand as equals, ready to write a new ending together...",
+      "releaseInfo": "2026",
+      "genres": [
+        "Drama"
+      ]
+    },
+    {
+      "id": "tmdb:275102",
+      "type": "series",
+      "name": "The Scandal",
+      "poster": "https://image.tmdb.org/t/p/w500/4TU0PcHBIl0wPW5B6aVRGExOnHE.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/uc1p1PEbEMpdIHqnU9TESNC6Jhp.jpg",
+      "description": "In Joseon, a secret proposal ignites hidden desires in a gifted noblewoman, a famed lover and an unsuspecting lady caught in their dangerous game.",
       "releaseInfo": "2026",
       "genres": [
         "Drama"
@@ -50,41 +62,19 @@
       ]
     },
     {
-      "id": "tmdb:298008",
+      "id": "tmdb:318918",
       "type": "series",
-      "name": "Plastic Beauty",
-      "poster": "https://image.tmdb.org/t/p/w500/u0mCeqVvQW2HEfrRy1we9UklsQd.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/mIjERiWlnDzQWHTcZdtucLmTCeO.jpg",
-      "description": "When a gifted ER surgeon is thrust into cosmetic medicine, her clash with a celebrity doctor exposes the greed and desire beneath the glamour.",
+      "name": "LEGO ONE PIECE",
+      "poster": "https://image.tmdb.org/t/p/w500/hTUHZ337JzqPvRXBQ3lu0GBkOvz.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/qA8U2ABepV5E2BcNIBcgUaFy4fM.jpg",
+      "description": "The Straw Hats hit the high seas in a two-part LEGO special! Join Luffy, Nami, Usopp and the crew on their epic journey, fully reimagined brick by brick.",
       "releaseInfo": "2026",
       "genres": [
-        "Drama"
-      ]
-    },
-    {
-      "id": "tmdb:312663",
-      "type": "series",
-      "name": "The Fixers",
-      "poster": "https://image.tmdb.org/t/p/w500/hwEfhJNLii8oUfuiRBPk11DDv8y.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/iyHgIyMJ6Vd5w79dLeGOTOkqDS5.jpg",
-      "description": "A washed-up gangster reluctantly teams up with an arrogant political heir to become \"fixers\", cleaning up dangerous secrets for both sides of the law.",
-      "releaseInfo": "2026",
-      "genres": [
+        "Animation",
         "Action & Adventure",
+        "Sci-Fi & Fantasy",
         "Comedy",
-        "Crime"
-      ]
-    },
-    {
-      "id": "tmdb:300507",
-      "type": "series",
-      "name": "Crew Girl",
-      "poster": "https://image.tmdb.org/t/p/w500/jkPZW1iHNvlI6077NxSxwITa1tj.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/lmtTtOjsIBxwKD7LsAD5eeyhq1g.jpg",
-      "description": "After a family scandal, teen rower Teagan Tao moves to a small town and joins an elite prep school's all-boys crew, sparking rivalry and attraction.",
-      "releaseInfo": "2026",
-      "genres": [
-        "Drama"
+        "Family"
       ]
     },
     {
@@ -101,31 +91,27 @@
       ]
     },
     {
-      "id": "tmdb:236235",
+      "id": "tmdb:258165",
       "type": "series",
-      "name": "The Gentlemen",
-      "poster": "https://image.tmdb.org/t/p/w500/tw3tzfXaSpmUZIB8ZNqNEGzMBCy.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/yG1wltFmkX5c5ocACKfpX0tp3SY.jpg",
-      "description": "When aristocratic Eddie inherits the family estate, he discovers that it's home to an enormous weed empire — and its proprietors aren't going anywhere.",
-      "releaseInfo": "2024",
+      "name": "East of Eden",
+      "poster": "https://image.tmdb.org/t/p/w500/axdUor6gLMTrrB1UF4Qfy0TTSyX.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/70RZX7kNjA0Qjn6HigB1oMvFJ8R.jpg",
+      "description": "In the early 1900s, a fiercely independent woman drives a rift between two brothers, igniting a saga that unfolds across two generations.",
+      "releaseInfo": "2026",
       "genres": [
-        "Comedy",
-        "Drama",
-        "Crime"
+        "Drama"
       ]
     },
     {
-      "id": "tmdb:290193",
+      "id": "tmdb:298008",
       "type": "series",
-      "name": "Mousetrap",
-      "poster": "https://image.tmdb.org/t/p/w500/2mwgHfOyrFrmvozjFoEXHRdfGhv.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/3bHz9dYSZ5XDxY0zDaBpYgUOhE2.jpg",
-      "description": "A reclusive writer wakes to find his identity stolen — and must ally with a ruthless loan shark to reclaim his life from a man known as \"The Rat.\"",
+      "name": "Plastic Beauty",
+      "poster": "https://image.tmdb.org/t/p/w500/u0mCeqVvQW2HEfrRy1we9UklsQd.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/mIjERiWlnDzQWHTcZdtucLmTCeO.jpg",
+      "description": "When a gifted ER surgeon is thrust into cosmetic medicine, her clash with a celebrity doctor exposes the greed and desire beneath the glamour.",
       "releaseInfo": "2026",
       "genres": [
-        "Crime",
-        "Drama",
-        "Mystery"
+        "Drama"
       ]
     }
   ]
