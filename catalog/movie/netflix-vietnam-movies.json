@@ -1,32 +1,44 @@
 {
   "metas": [
     {
-      "id": "tmdb:1492640",
+      "id": "tmdb:1236045",
       "type": "movie",
-      "name": "UNABOMBER",
-      "poster": "https://image.tmdb.org/t/p/w500/39aMkR8Y5vhCG9dTkjiqRl8AVqp.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/58D9nalUYW5L5K0guw7hcpsEJBH.jpg",
-      "description": "Follow Ted Kaczynski's transformation from Harvard prodigy into the infamous Unabomber. Subjected to controversial psychological experiments by Professor Henry Murray, Kaczynski's troubled past resurfaces decades later when his manhunt, led by FBI agent Joanne Miller, brings to light the chilling consequences of ambition and isolation.",
+      "name": "Animals",
+      "poster": "https://image.tmdb.org/t/p/w500/iISM36voS1E8gX9BM0DVK0kgi3E.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/tzoarEu7TsG959upiELyYPm5kO9.jpg",
+      "description": "When the son of an L.A. mayoral candidate is kidnapped, he and his wife have a few hours to come up with the ransom payment. With most of their money spent on his political campaign, they have to get their hands dirty and expose a side of their lives they never intended to see the light of day.",
       "releaseInfo": "2026",
       "genres": [
         "Thriller",
         "Drama",
+        "Action",
         "Crime"
       ]
     },
     {
-      "id": "tmdb:9470",
+      "id": "tmdb:338970",
       "type": "movie",
-      "name": "Kung Fu Hustle",
-      "poster": "https://image.tmdb.org/t/p/w500/exbyTbrvRUDKN2mcNEuVor4VFQW.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/9XhZhoSnFJ3AjpfzdIiZVHLQIS4.jpg",
-      "description": "It's the 1940s, and the notorious Axe Gang terrorizes Shanghai. Small-time criminals Sing and Bone hope to join, but they only manage to make lots of very dangerous enemies. Fortunately for them, kung fu masters and hidden strength can be found in unlikely places. Now they just have to take on the entire Axe Gang.",
-      "releaseInfo": "2004",
+      "name": "Tomb Raider",
+      "poster": "https://image.tmdb.org/t/p/w500/s4Qn5LF6OwK4rIifmthIDtbqDSs.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/ohijjhvNqAPKTURQr6VIF7xuAjY.jpg",
+      "description": "Lara Croft, the fiercely independent daughter of a missing adventurer, must push herself beyond her limits when she finds herself on the island where her father disappeared.",
+      "releaseInfo": "2018",
       "genres": [
         "Action",
-        "Comedy",
-        "Crime",
+        "Adventure",
         "Fantasy"
+      ]
+    },
+    {
+      "id": "tmdb:1212763",
+      "type": "movie",
+      "name": "Evil Dead Burn",
+      "poster": "https://image.tmdb.org/t/p/w500/uRxrNXQWkHoENm3nwVOZDYSCx2F.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/o0jkkpcN81QqSl8DMLScBCXyUH9.jpg",
+      "description": "After her husband's abrupt death, Alice seeks solace with his remaining family — descendants of a leading researcher on demonic possession. As her in-laws transform one by one into creatures that feed on fear, she comes to discover that the vows she took in life survive even in death.",
+      "releaseInfo": "2026",
+      "genres": [
+        "Horror"
       ]
     },
     {
@@ -44,34 +56,6 @@
       ]
     },
     {
-      "id": "tmdb:274",
-      "type": "movie",
-      "name": "The Silence of the Lambs",
-      "poster": "https://image.tmdb.org/t/p/w500/uS9m8OBk1A8eM9I042bx8XXpqAq.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/mbOx1wxMLikzwWUO9TKAcFIy6op.jpg",
-      "description": "Clarice Starling is a top student at the FBI's training academy.  Jack Crawford wants Clarice to interview Dr. Hannibal Lecter, a brilliant psychiatrist who is also a violent psychopath, serving life behind bars for various acts of murder and cannibalism.  Crawford believes that Lecter may have insight into a case and that Starling, as an attractive young woman, may be just the bait to draw him out.",
-      "releaseInfo": "1991",
-      "genres": [
-        "Crime",
-        "Thriller",
-        "Drama"
-      ]
-    },
-    {
-      "id": "tmdb:564",
-      "type": "movie",
-      "name": "The Mummy",
-      "poster": "https://image.tmdb.org/t/p/w500/yhIsVvcUm7QxzLfT6HW2wLf5ajY.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/8zLS8p1tRyWFLRFfmgQq0j5WE6z.jpg",
-      "description": "Dashing legionnaire Rick O'Connell stumbles upon the hidden ruins of Hamunaptra while in the midst of a battle to claim the area in 1920s Egypt. It has been over three thousand years since former High Priest Imhotep suffered a fate worse than death as a punishment for a forbidden love—along with a curse that guarantees eternal doom upon the world if he is ever awoken.",
-      "releaseInfo": "1999",
-      "genres": [
-        "Adventure",
-        "Action",
-        "Fantasy"
-      ]
-    },
-    {
       "id": "tmdb:1569555",
       "type": "movie",
       "name": "Fish, Fists and Ambergris",
@@ -86,17 +70,58 @@
       ]
     },
     {
-      "id": "tmdb:402900",
+      "id": "tmdb:293167",
       "type": "movie",
-      "name": "Ocean's 8",
-      "poster": "https://image.tmdb.org/t/p/w500/MvYpKlpFukTivnlBhizGbkAe3v.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/scQf03Fm3jeyv4FH04qvi4fp4wh.jpg",
-      "description": "Debbie Ocean, a criminal mastermind, gathers a crew of female thieves to pull off the heist of the century at New York's annual Met Gala.",
-      "releaseInfo": "2018",
+      "name": "Kong: Skull Island",
+      "poster": "https://image.tmdb.org/t/p/w500/r2517Vz9EhDhj88qwbDVj8DCRZN.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/nVodCGKYLpqNC8YwQAbivKlWCgZ.jpg",
+      "description": "Explore the mysterious and dangerous home of the king of the apes as a team of explorers ventures deep inside the treacherous, primordial island.",
+      "releaseInfo": "2017",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Fantasy"
+      ]
+    },
+    {
+      "id": "tmdb:1210973",
+      "type": "movie",
+      "name": "Mai",
+      "poster": "https://image.tmdb.org/t/p/w500/uFsn8qBEzbeJCqH0LsViwPom5ww.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/zZ6nRdNQNxRnZ1LQ2ttPBZl9AXV.jpg",
+      "description": "When a struggling single mother falls for a wealthy heartbreaker, their risky romance could just turn their lives around — or tear their worlds apart.",
+      "releaseInfo": "2024",
+      "genres": [
+        "Romance",
+        "Drama"
+      ]
+    },
+    {
+      "id": "tmdb:274",
+      "type": "movie",
+      "name": "The Silence of the Lambs",
+      "poster": "https://image.tmdb.org/t/p/w500/uS9m8OBk1A8eM9I042bx8XXpqAq.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/mbOx1wxMLikzwWUO9TKAcFIy6op.jpg",
+      "description": "Clarice Starling is a top student at the FBI's training academy.  Jack Crawford wants Clarice to interview Dr. Hannibal Lecter, a brilliant psychiatrist who is also a violent psychopath, serving life behind bars for various acts of murder and cannibalism.  Crawford believes that Lecter may have insight into a case and that Starling, as an attractive young woman, may be just the bait to draw him out.",
+      "releaseInfo": "1991",
       "genres": [
         "Crime",
-        "Comedy",
-        "Action"
+        "Thriller",
+        "Drama"
+      ]
+    },
+    {
+      "id": "tmdb:665",
+      "type": "movie",
+      "name": "Ben-Hur",
+      "poster": "https://image.tmdb.org/t/p/w500/m4WQ1dBIrEIHZNCoAjdpxwSKWyH.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/nk5gq5rNLBJiHvNGMRT6I9VRQX7.jpg",
+      "description": "In ancient Judea, a Jewish aristocrat opposing Roman occupation of his homeland reunites with his childhood friend, now a Roman commander — setting in motion a saga of betrayal, adventure, tragedy, revenge, and faith.",
+      "releaseInfo": "1959",
+      "genres": [
+        "History",
+        "Drama",
+        "Adventure"
       ]
     },
     {
@@ -110,34 +135,6 @@
       "genres": [
         "Comedy",
         "Romance"
-      ]
-    },
-    {
-      "id": "tmdb:18823",
-      "type": "movie",
-      "name": "Clash of the Titans",
-      "poster": "https://image.tmdb.org/t/p/w500/6iHYLipwEyZUPNO8MM3l1yHDaFE.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/zRx1HyM1wF6wqEvxV12Ha2WrvlJ.jpg",
-      "description": "Born of a god but raised as a man, Perseus is helpless to save his family from Hades, vengeful god of the underworld. With nothing to lose, Perseus volunteers to lead a dangerous mission to defeat Hades before he can seize power from Zeus and unleash hell on earth. Battling unholy demons and fearsome beasts, Perseus and his warriors will only survive if Perseus accepts his power as a god, defies fate and creates his own destiny.",
-      "releaseInfo": "2010",
-      "genres": [
-        "Adventure",
-        "Fantasy",
-        "Action"
-      ]
-    },
-    {
-      "id": "tmdb:1734",
-      "type": "movie",
-      "name": "The Mummy Returns",
-      "poster": "https://image.tmdb.org/t/p/w500/kdJsW7hcy1lrj7tdMPycTAQPAiR.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/7s7WkAFPBsMTprYMbqbgKoppQsR.jpg",
-      "description": "Rick and Evelyn O’Connell, along with their 8-year-old son Alex, discover the key to the legendary Scorpion King’s might: the fabled Bracelet of Anubis. Unfortunately, a newly resurrected Imhotep has designs on the bracelet as well, and isn’t above kidnapping its new bearer, Alex, to gain control of Anubis’s otherworldly army.",
-      "releaseInfo": "2001",
-      "genres": [
-        "Adventure",
-        "Action",
-        "Fantasy"
       ]
     }
   ]
