@@ -1,6 +1,86 @@
 {
   "metas": [
     {
+      "id": "tmdb:293610",
+      "type": "series",
+      "name": "Doctor X: Mafia in White",
+      "poster": "https://image.tmdb.org/t/p/w500/nDDVzQfv95PGwj9nV2fJvUrkcvU.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/mDYIV71RL3mkaW8IfSGNthuVB7l.jpg",
+      "description": "In a hospital dominated by ego and corruption, an enigmatic but brilliant surgeon arrives — taking on seemingly impossible cases amid fierce opposition.",
+      "releaseInfo": "2026",
+      "genres": [
+        "Mystery",
+        "Drama",
+        "Crime"
+      ]
+    },
+    {
+      "id": "tmdb:293607",
+      "type": "series",
+      "name": "100 Days of Deception",
+      "poster": "https://image.tmdb.org/t/p/w500/bZHEU42QynnMrHUWK1Hhvj2cdPA.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/3SvKCITqMtjgPIhFBjRc4yTAc4H.jpg",
+      "description": "Hoping for freedom, Gyeongseong's top pickpocket infiltrates the Japanese colonial government to steal secrets — only to fall for her target's son.",
+      "releaseInfo": "2026",
+      "genres": [
+        "Action & Adventure",
+        "Drama"
+      ]
+    },
+    {
+      "id": "tmdb:289423",
+      "type": "series",
+      "name": "Take Charge of My Heart",
+      "poster": "https://image.tmdb.org/t/p/w500/ecRrKGXfflZmDZBD4irdkybClT.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/rN9xHDp83kZ3cOr82JR1b4rFIFk.jpg",
+      "description": "A corporate heir with an artificial heart meets a woman who's literally electric. They strike a deal that makes his heart beat — in more ways than one.",
+      "releaseInfo": "2026",
+      "genres": [
+        "Sci-Fi & Fantasy",
+        "Comedy",
+        "Drama"
+      ]
+    },
+    {
+      "id": "tmdb:285322",
+      "type": "series",
+      "name": "Below",
+      "poster": "https://image.tmdb.org/t/p/w500/vgLqqhMUbljp585qPp1EFCyJtcz.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/cn0feYcDvVzVjUDoXa1O8sRgzz.jpg",
+      "description": "When a mysterious sea creature terrorizes a small Newfoundland town, a hard-bitten fisherman and his family fight to protect their close-knit community.",
+      "releaseInfo": "2026",
+      "genres": [
+        "Drama",
+        "Mystery"
+      ]
+    },
+    {
+      "id": "tmdb:300146",
+      "type": "series",
+      "name": "Where the Mask Ends",
+      "poster": "https://image.tmdb.org/t/p/w500/cE9Og0lCCRCP2RArarzJXmu6xEB.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/YndvGwqwroUDVltBWmnOuTvJke.jpg",
+      "description": "An ambitious street urchin seizes the chance to impersonate a noblewoman and becomes a warlord's bride, but when her comatose husband awakens, she must navigate deadly schemes, win his heart through cunning, and uncover her royal heritage to triumph over rivals and rise from gutter to glory.",
+      "releaseInfo": "2026",
+      "genres": [
+        "Drama"
+      ]
+    },
+    {
+      "id": "tmdb:220542",
+      "type": "series",
+      "name": "The Apothecary Diaries",
+      "poster": "https://image.tmdb.org/t/p/w500/sJZcy8QsOPuRPiCfoCWVB3r9Ohg.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/gffVOVZ2Y9cmVIZ26Gt9ByMGCYH.jpg",
+      "description": "Maomao lived a peaceful life with her apothecary father. Until one day, she's sold as a lowly servant to the emperor's palace. But she wasn't meant for a compliant life among royalty. So when imperial heirs fall ill, she decides to step in and find a cure! This catches the eye of Jinshi, a handsome palace official who promotes her. Now, she's making a name for herself solving medical mysteries!",
+      "releaseInfo": "2023",
+      "genres": [
+        "Animation",
+        "Drama",
+        "Mystery"
+      ]
+    },
+    {
       "id": "tmdb:297982",
       "type": "series",
       "name": "Irreplaceable",
@@ -9,6 +89,19 @@
       "description": "After witnessing her mother's suicide following a divorce, Xu Chi defies her tragic fate by rising from an ordinary graduate to a sharp-witted top consultant. Drawn into the covert revenge scheme of seasoned partner Ye Xinzhi, who mentors her while navigating their growing mutual attraction, the duo confronts a crossroads when professional upheavals collide with their evolving bond.",
       "releaseInfo": "2026",
       "genres": [
+        "Drama"
+      ]
+    },
+    {
+      "id": "tmdb:320909",
+      "type": "series",
+      "name": "Firefly Wedding",
+      "poster": "https://image.tmdb.org/t/p/w500/954dt0dTqoUhIW0EvMFZ0KvVQmk.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/3zmB6PLnjf7rNNC2lnvinQtlJMx.jpg",
+      "description": "Satoko Kirigaya has everything a noblewoman could want—except time. With her life running out, she’s determined to marry well and make her father proud. But when a ruthless assassin kidnaps her, she makes a desperate offer: “Marry me, and we’ll have it all.” Shinpei Goto accepts, only to become dangerously obsessed. Now Satoko must choose between duty and a love that could consume them both.",
+      "releaseInfo": "2026",
+      "genres": [
+        "Animation",
         "Drama"
       ]
     },
@@ -25,94 +118,16 @@
       ]
     },
     {
-      "id": "tmdb:275102",
+      "id": "tmdb:46052",
       "type": "series",
-      "name": "The Scandal",
-      "poster": "https://image.tmdb.org/t/p/w500/4TU0PcHBIl0wPW5B6aVRGExOnHE.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/uc1p1PEbEMpdIHqnU9TESNC6Jhp.jpg",
-      "description": "In Joseon, a secret proposal ignites hidden desires in a gifted noblewoman, a famed lover and an unsuspecting lady caught in their dangerous game.",
-      "releaseInfo": "2026",
-      "genres": [
-        "Drama"
-      ]
-    },
-    {
-      "id": "tmdb:299939",
-      "type": "series",
-      "name": "Monster: The Lizzie Borden Story",
-      "poster": "https://image.tmdb.org/t/p/w500/57XScX1aYtKi1LvHYFQLPUxVhTG.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/gaew60NXUxok3Vmls7gkAT7lYW0.jpg",
-      "description": "Trapped in a cruel Victorian-era household, Lizzie Borden kills her parents in a gory ax murder that shocks the nation.",
-      "releaseInfo": "2026",
+      "name": "Doctor X Surgeon Michiko Daimon",
+      "poster": "https://image.tmdb.org/t/p/w500/kgA1JQ5szdoUF5X5y9TgTBILJeU.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/le8QyslLxUVN5VeFLPoMPqfO1nm.jpg",
+      "description": "Daimon Michiko is a 37-year-old freelance surgeon who is part of a questionable “doctor placement service” that has her wander from hospital to hospital. The harsh environment at the hospitals led many doctors to retire from their positions, forcing hospitals to make use of said program to fill the empty spots at least temporary. However, Michiko doesn’t look like a doctor at all with her flashy clothes and eccentric attitude. In the first episode she raises objections to a certain operation which is planned to be done by the head of a hospital who hasn’t performed an operation for a very long time. This causes Michiko to incur odium at the hospital, however, everyone becomes frozen when Michiko points out the outdated skills of the director. She also holds a scrupulous compliance when it comes to her working hours, never does any unnecessary chores that don’t require a medical license, and couldn’t care less about the power struggles within the hospitals. Nobody knows how she acquired such a top-level skill that allows her to claim exorbitant sums as reward, but her private life is an even greater mystery to everyone around her. Tanaka plays a rookie surgeon, Uchida an anesthetist, Kishibe the head of the placement service, and Ito the head of the surgical department of this institution.",
+      "releaseInfo": "2012",
       "genres": [
         "Drama",
-        "Crime"
-      ]
-    },
-    {
-      "id": "tmdb:305644",
-      "type": "series",
-      "name": "Four Hands, Two Sonatas",
-      "poster": "https://image.tmdb.org/t/p/w500/a7p6htiJKx68USDAcilJ5rzKAWB.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/fYL4I6cezb06BHhQlrNjNhy7jhf.jpg",
-      "description": "When two young pianists from completely different worlds meet at an elite music high school, the melodies of their lives become intimately intertwined.",
-      "releaseInfo": "2026",
-      "genres": [
-        "Drama"
-      ]
-    },
-    {
-      "id": "tmdb:318918",
-      "type": "series",
-      "name": "LEGO ONE PIECE",
-      "poster": "https://image.tmdb.org/t/p/w500/hTUHZ337JzqPvRXBQ3lu0GBkOvz.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/qA8U2ABepV5E2BcNIBcgUaFy4fM.jpg",
-      "description": "The Straw Hats hit the high seas in a two-part LEGO special! Join Luffy, Nami, Usopp and the crew on their epic journey, fully reimagined brick by brick.",
-      "releaseInfo": "2026",
-      "genres": [
-        "Animation",
-        "Action & Adventure",
-        "Sci-Fi & Fantasy",
-        "Comedy",
-        "Family"
-      ]
-    },
-    {
-      "id": "tmdb:291496",
-      "type": "series",
-      "name": "Our Sticky Love",
-      "poster": "https://image.tmdb.org/t/p/w500/tSZ4aFpTGc8Oj52SuzPUUZ7WKL0.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/mp2AFsWsuyxCzenJh3DTKw7z4jG.jpg",
-      "description": "An ambitious prosecutor loses her memory and moves in with a boxing coach who claims to be her boyfriend. Can this sticky situation turn into real love?",
-      "releaseInfo": "2026",
-      "genres": [
-        "Drama",
-        "Comedy"
-      ]
-    },
-    {
-      "id": "tmdb:258165",
-      "type": "series",
-      "name": "East of Eden",
-      "poster": "https://image.tmdb.org/t/p/w500/axdUor6gLMTrrB1UF4Qfy0TTSyX.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/70RZX7kNjA0Qjn6HigB1oMvFJ8R.jpg",
-      "description": "In the early 1900s, a fiercely independent woman drives a rift between two brothers, igniting a saga that unfolds across two generations.",
-      "releaseInfo": "2026",
-      "genres": [
-        "Drama",
-        "Crime"
-      ]
-    },
-    {
-      "id": "tmdb:298008",
-      "type": "series",
-      "name": "Plastic Beauty",
-      "poster": "https://image.tmdb.org/t/p/w500/u0mCeqVvQW2HEfrRy1we9UklsQd.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/mIjERiWlnDzQWHTcZdtucLmTCeO.jpg",
-      "description": "When a gifted ER surgeon is thrust into cosmetic medicine, her clash with a celebrity doctor exposes the greed and desire beneath the glamour.",
-      "releaseInfo": "2026",
-      "genres": [
-        "Drama"
+        "Mystery"
       ]
     }
   ]
