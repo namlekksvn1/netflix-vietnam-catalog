@@ -1,44 +1,15 @@
 {
   "metas": [
     {
-      "id": "tmdb:1236045",
+      "id": "tmdb:1780005",
       "type": "movie",
-      "name": "Animals",
-      "poster": "https://image.tmdb.org/t/p/w500/iISM36voS1E8gX9BM0DVK0kgi3E.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/tzoarEu7TsG959upiELyYPm5kO9.jpg",
-      "description": "When the son of an L.A. mayoral candidate is kidnapped, he and his wife have a few hours to come up with the ransom payment. With most of their money spent on his political campaign, they have to get their hands dirty and expose a side of their lives they never intended to see the light of day.",
+      "name": "Surviving Hurricane Otis",
+      "poster": "https://image.tmdb.org/t/p/w500/chZa8Jd9kSDj11bekGjwwotFPEw.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/cpNMIRCrDl0sxDL1tHBzfWi0UZC.jpg",
+      "description": "Two estranged brothers struggle to survive Hurricane Otis in Acapulco, where their bond and courage turn adversity into hope.",
       "releaseInfo": "2026",
       "genres": [
-        "Thriller",
-        "Drama",
-        "Action",
-        "Crime"
-      ]
-    },
-    {
-      "id": "tmdb:338970",
-      "type": "movie",
-      "name": "Tomb Raider",
-      "poster": "https://image.tmdb.org/t/p/w500/s4Qn5LF6OwK4rIifmthIDtbqDSs.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/ohijjhvNqAPKTURQr6VIF7xuAjY.jpg",
-      "description": "Lara Croft, the fiercely independent daughter of a missing adventurer, must push herself beyond her limits when she finds herself on the island where her father disappeared.",
-      "releaseInfo": "2018",
-      "genres": [
-        "Action",
-        "Adventure",
-        "Fantasy"
-      ]
-    },
-    {
-      "id": "tmdb:1212763",
-      "type": "movie",
-      "name": "Evil Dead Burn",
-      "poster": "https://image.tmdb.org/t/p/w500/uRxrNXQWkHoENm3nwVOZDYSCx2F.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/o0jkkpcN81QqSl8DMLScBCXyUH9.jpg",
-      "description": "After her husband's abrupt death, Alice seeks solace with his remaining family — descendants of a leading researcher on demonic possession. As her in-laws transform one by one into creatures that feed on fear, she comes to discover that the vows she took in life survive even in death.",
-      "releaseInfo": "2026",
-      "genres": [
-        "Horror"
+        "Drama"
       ]
     },
     {
@@ -56,31 +27,56 @@
       ]
     },
     {
-      "id": "tmdb:1569555",
+      "id": "tmdb:1233575",
       "type": "movie",
-      "name": "Fish, Fists and Ambergris",
-      "poster": "https://image.tmdb.org/t/p/w500/7fHlcEovyJY1YhTd8FaJXj1mUk8.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/ociHIRRo2HNgRG2et4nDyNyTrM5.jpg",
-      "description": "The treasured relic of Long Diên Hương fishing village is stolen, setting off a thrilling pursuit. Beyond its spectacular martial arts sequences, the film delivers laughter, unity, and the heartfelt human values of the coastal villagers.",
+      "name": "Black Bag",
+      "poster": "https://image.tmdb.org/t/p/w500/hHPovtU4b96LHcoeEwRkGHI5btw.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/9ctmJLf3uUngYkwHbRttukm2n5l.jpg",
+      "description": "When intelligence agent Kathryn Woodhouse is suspected of betraying the nation, her husband – also a legendary agent – faces the ultimate test of whether to be loyal to his marriage, or his country.",
       "releaseInfo": "2025",
       "genres": [
-        "Action",
-        "Adventure",
-        "Comedy"
+        "Mystery",
+        "Thriller"
       ]
     },
     {
-      "id": "tmdb:293167",
+      "id": "tmdb:1212763",
       "type": "movie",
-      "name": "Kong: Skull Island",
-      "poster": "https://image.tmdb.org/t/p/w500/r2517Vz9EhDhj88qwbDVj8DCRZN.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/nVodCGKYLpqNC8YwQAbivKlWCgZ.jpg",
-      "description": "Explore the mysterious and dangerous home of the king of the apes as a team of explorers ventures deep inside the treacherous, primordial island.",
-      "releaseInfo": "2017",
+      "name": "Evil Dead Burn",
+      "poster": "https://image.tmdb.org/t/p/w500/uRxrNXQWkHoENm3nwVOZDYSCx2F.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/o0jkkpcN81QqSl8DMLScBCXyUH9.jpg",
+      "description": "After her husband's abrupt death, Alice seeks solace with his remaining family — descendants of a leading researcher on demonic possession. As her in-laws transform one by one into creatures that feed on fear, she comes to discover that the vows she took in life survive even in death.",
+      "releaseInfo": "2026",
+      "genres": [
+        "Horror"
+      ]
+    },
+    {
+      "id": "tmdb:10413",
+      "type": "movie",
+      "name": "Nowhere to Run",
+      "poster": "https://image.tmdb.org/t/p/w500/c8ADJ1emBBokgXkzmPCl5mIZBKy.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/5VF6N8dPSSPeyQdQoQ53mxDcUjw.jpg",
+      "description": "Escaped convict Sam Gillen single-handedly takes on ruthless developers who are determined to evict a widow with two young children.",
+      "releaseInfo": "1993",
       "genres": [
         "Action",
-        "Adventure",
-        "Fantasy"
+        "Drama",
+        "Thriller"
+      ]
+    },
+    {
+      "id": "tmdb:1571955",
+      "type": "movie",
+      "name": "Collision Course",
+      "poster": "https://image.tmdb.org/t/p/w500/s2eAK0uiODjlNUSIiOBwdp3at2u.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/uI3kWI7kGW5E0F8WduewgQYPt34.jpg",
+      "description": "Spain, 2013. After robbing a bank, a getaway crash reveals the hidden side of each thief, exposing betrayals and lies that began long before the heist.",
+      "releaseInfo": "2026",
+      "genres": [
+        "Thriller",
+        "Drama",
+        "Crime"
       ]
     },
     {
@@ -97,41 +93,40 @@
       ]
     },
     {
-      "id": "tmdb:274",
+      "id": "tmdb:1569555",
       "type": "movie",
-      "name": "The Silence of the Lambs",
-      "poster": "https://image.tmdb.org/t/p/w500/uS9m8OBk1A8eM9I042bx8XXpqAq.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/mbOx1wxMLikzwWUO9TKAcFIy6op.jpg",
-      "description": "Clarice Starling is a top student at the FBI's training academy.  Jack Crawford wants Clarice to interview Dr. Hannibal Lecter, a brilliant psychiatrist who is also a violent psychopath, serving life behind bars for various acts of murder and cannibalism.  Crawford believes that Lecter may have insight into a case and that Starling, as an attractive young woman, may be just the bait to draw him out.",
+      "name": "Fish, Fists and Ambergris",
+      "poster": "https://image.tmdb.org/t/p/w500/7fHlcEovyJY1YhTd8FaJXj1mUk8.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/ociHIRRo2HNgRG2et4nDyNyTrM5.jpg",
+      "description": "The treasured relic of Long Diên Hương fishing village is stolen, setting off a thrilling pursuit. Beyond its spectacular martial arts sequences, the film delivers laughter, unity, and the heartfelt human values of the coastal villagers.",
+      "releaseInfo": "2025",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Comedy"
+      ]
+    },
+    {
+      "id": "tmdb:2907",
+      "type": "movie",
+      "name": "The Addams Family",
+      "poster": "https://image.tmdb.org/t/p/w500/qFf8anju5f2epI0my8RdwwIXFIP.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/7OxGhxUYAdtuike29VMzEFxJx7y.jpg",
+      "description": "When a man claiming to be long-lost Uncle Fester reappears after 25 years lost, the family plans a celebration to wake the dead. But the kids barely have time to warm up the electric chair before Morticia begins to suspect Fester is fraud when he can't recall any of the details of Fester's life.",
       "releaseInfo": "1991",
       "genres": [
-        "Crime",
-        "Thriller",
-        "Drama"
+        "Comedy",
+        "Fantasy"
       ]
     },
     {
-      "id": "tmdb:665",
+      "id": "tmdb:1391703",
       "type": "movie",
-      "name": "Ben-Hur",
-      "poster": "https://image.tmdb.org/t/p/w500/m4WQ1dBIrEIHZNCoAjdpxwSKWyH.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/nk5gq5rNLBJiHvNGMRT6I9VRQX7.jpg",
-      "description": "In ancient Judea, a Jewish aristocrat opposing Roman occupation of his homeland reunites with his childhood friend, now a Roman commander — setting in motion a saga of betrayal, adventure, tragedy, revenge, and faith.",
-      "releaseInfo": "1959",
-      "genres": [
-        "History",
-        "Drama",
-        "Adventure"
-      ]
-    },
-    {
-      "id": "tmdb:455207",
-      "type": "movie",
-      "name": "Crazy Rich Asians",
-      "poster": "https://image.tmdb.org/t/p/w500/1XxL4LJ5WHdrcYcihEZUCgNCpAW.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/zeHB7aP46Xs3u4aFLuAq2GFeUGb.jpg",
-      "description": "An American-born Chinese economics professor accompanies her boyfriend to Singapore for his best friend's wedding, only to get thrust into the lives of Asia's rich and famous.",
-      "releaseInfo": "2018",
+      "name": "The 4 Rascals",
+      "poster": "https://image.tmdb.org/t/p/w500/xfCtJdLp6lZiBZhrr9OCGhFWXyu.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/1c675BVbmNm1OoshmUWlL3wsgNt.jpg",
+      "description": "When her boyfriend grows close to a wealthy new colleague, a woman and her friends set out to expose the woman's true motives.",
+      "releaseInfo": "2025",
       "genres": [
         "Comedy",
         "Romance"
