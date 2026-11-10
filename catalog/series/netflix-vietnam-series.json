@@ -5,13 +5,38 @@
       "type": "series",
       "name": "Doctor X: Mafia in White",
       "poster": "https://image.tmdb.org/t/p/w500/nDDVzQfv95PGwj9nV2fJvUrkcvU.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/mDYIV71RL3mkaW8IfSGNthuVB7l.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/rCFZ9cQQVSa9sAvco2Czcct6aKB.jpg",
       "description": "In a hospital dominated by ego and corruption, an enigmatic but brilliant surgeon arrives — taking on seemingly impossible cases amid fierce opposition.",
       "releaseInfo": "2026",
       "genres": [
         "Mystery",
         "Drama",
         "Crime"
+      ]
+    },
+    {
+      "id": "tmdb:300146",
+      "type": "series",
+      "name": "Where the Mask Ends",
+      "poster": "https://image.tmdb.org/t/p/w500/cE9Og0lCCRCP2RArarzJXmu6xEB.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/q6VPQREsEGFccpWVF7wFvy9oc25.jpg",
+      "description": "An ambitious street urchin seizes the chance to impersonate a noblewoman and becomes a warlord's bride, but when her comatose husband awakens, she must navigate deadly schemes, win his heart through cunning, and uncover her royal heritage to triumph over rivals and rise from gutter to glory.",
+      "releaseInfo": "2026",
+      "genres": [
+        "Drama"
+      ]
+    },
+    {
+      "id": "tmdb:289517",
+      "type": "series",
+      "name": "Dead-End Job",
+      "poster": "https://image.tmdb.org/t/p/w500/wUvzMC7EToPgci31ZZRCeqCmQ6d.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/gWedDgBsZkuOho2qe3q2sTQmbpO.jpg",
+      "description": "Drowning in debt, a young man takes lucrative part-time jobs from a mysterious agency — only to find his hustle for more money turning nightmarish.",
+      "releaseInfo": "2026",
+      "genres": [
+        "Mystery",
+        "Drama"
       ]
     },
     {
@@ -25,6 +50,20 @@
       "genres": [
         "Action & Adventure",
         "Drama"
+      ]
+    },
+    {
+      "id": "tmdb:96677",
+      "type": "series",
+      "name": "Lupin",
+      "poster": "https://image.tmdb.org/t/p/w500/h6Z2oogE4mJk2uffdtIlLhb0EHx.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/jgAZYiuRV37pCxmhx8NTdhE36RL.jpg",
+      "description": "Inspired by the adventures of Arsène Lupin, gentleman thief Assane Diop sets out to avenge his father for an injustice inflicted by a wealthy family.",
+      "releaseInfo": "2021",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Mystery"
       ]
     },
     {
@@ -42,28 +81,17 @@
       ]
     },
     {
-      "id": "tmdb:285322",
+      "id": "tmdb:312359",
       "type": "series",
-      "name": "Below",
-      "poster": "https://image.tmdb.org/t/p/w500/vgLqqhMUbljp585qPp1EFCyJtcz.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/cn0feYcDvVzVjUDoXa1O8sRgzz.jpg",
-      "description": "When a mysterious sea creature terrorizes a small Newfoundland town, a hard-bitten fisherman and his family fight to protect their close-knit community.",
+      "name": "Dragon Ball Super: Beerus",
+      "poster": "https://image.tmdb.org/t/p/w500/AojgldgsOlzZV8ahyOzaiAjJWvV.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/8phLVFEXOe02JgFmH9ldn3j4tXW.jpg",
+      "description": "When Beerus, the God of Destruction, awakens in search of a worthy rival, Goku and his friends face an epic battle to stop him from destroying Earth.\n\nRemastered and re-edited version of Dragon Ball Super.",
       "releaseInfo": "2026",
       "genres": [
-        "Drama",
-        "Mystery"
-      ]
-    },
-    {
-      "id": "tmdb:300146",
-      "type": "series",
-      "name": "Where the Mask Ends",
-      "poster": "https://image.tmdb.org/t/p/w500/cE9Og0lCCRCP2RArarzJXmu6xEB.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/q6VPQREsEGFccpWVF7wFvy9oc25.jpg",
-      "description": "An ambitious street urchin seizes the chance to impersonate a noblewoman and becomes a warlord's bride, but when her comatose husband awakens, she must navigate deadly schemes, win his heart through cunning, and uncover her royal heritage to triumph over rivals and rise from gutter to glory.",
-      "releaseInfo": "2026",
-      "genres": [
-        "Drama"
+        "Animation",
+        "Action & Adventure",
+        "Sci-Fi & Fantasy"
       ]
     },
     {
@@ -81,18 +109,6 @@
       ]
     },
     {
-      "id": "tmdb:297982",
-      "type": "series",
-      "name": "Irreplaceable",
-      "poster": "https://image.tmdb.org/t/p/w500/uvdFDRZUUZarJirBQAjYk2yIkMi.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/o91jmFILQk1UAqPbpEjT3D3OxoO.jpg",
-      "description": "After witnessing her mother's suicide following a divorce, Xu Chi defies her tragic fate by rising from an ordinary graduate to a sharp-witted top consultant. Drawn into the covert revenge scheme of seasoned partner Ye Xinzhi, who mentors her while navigating their growing mutual attraction, the duo confronts a crossroads when professional upheavals collide with their evolving bond.",
-      "releaseInfo": "2026",
-      "genres": [
-        "Drama"
-      ]
-    },
-    {
       "id": "tmdb:320909",
       "type": "series",
       "name": "Firefly Wedding",
@@ -103,31 +119,6 @@
       "genres": [
         "Animation",
         "Drama"
-      ]
-    },
-    {
-      "id": "tmdb:299952",
-      "type": "series",
-      "name": "The Early Spring",
-      "poster": "https://image.tmdb.org/t/p/w500/lGFngmJWMO4HTPcI0sUGKBAFqMe.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/oUFUvEMCBP80e4eYsfVfxC8n7ih.jpg",
-      "description": "New to Beijing, Shang Zhitao crosses paths with Luan Nian, a true creative genius. Bold and open-hearted, she grows stronger step by step and gradually breaks through the defenses around Luan's guarded heart. Drawn to each other, they find themselves caught in an intense, on-again, off-again relationship in the urban jungle. To love is to summon all your courage and leave no regrets, to heal each other, and to grow together. But when love and her career pull her in different directions, she puts her career first. When she has come into her own and he has learned to soften his sharp edges, they finally stand as equals, ready to write a new ending together...",
-      "releaseInfo": "2026",
-      "genres": [
-        "Drama"
-      ]
-    },
-    {
-      "id": "tmdb:46052",
-      "type": "series",
-      "name": "Doctor X Surgeon Michiko Daimon",
-      "poster": "https://image.tmdb.org/t/p/w500/kgA1JQ5szdoUF5X5y9TgTBILJeU.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/le8QyslLxUVN5VeFLPoMPqfO1nm.jpg",
-      "description": "Daimon Michiko is a 37-year-old freelance surgeon who is part of a questionable “doctor placement service” that has her wander from hospital to hospital. The harsh environment at the hospitals led many doctors to retire from their positions, forcing hospitals to make use of said program to fill the empty spots at least temporary. However, Michiko doesn’t look like a doctor at all with her flashy clothes and eccentric attitude. In the first episode she raises objections to a certain operation which is planned to be done by the head of a hospital who hasn’t performed an operation for a very long time. This causes Michiko to incur odium at the hospital, however, everyone becomes frozen when Michiko points out the outdated skills of the director. She also holds a scrupulous compliance when it comes to her working hours, never does any unnecessary chores that don’t require a medical license, and couldn’t care less about the power struggles within the hospitals. Nobody knows how she acquired such a top-level skill that allows her to claim exorbitant sums as reward, but her private life is an even greater mystery to everyone around her. Tanaka plays a rookie surgeon, Uchida an anesthetist, Kishibe the head of the placement service, and Ito the head of the surgical department of this institution.",
-      "releaseInfo": "2012",
-      "genres": [
-        "Drama",
-        "Mystery"
       ]
     }
   ]
