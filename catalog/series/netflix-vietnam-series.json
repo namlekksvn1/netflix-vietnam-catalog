@@ -1,32 +1,6 @@
 {
   "metas": [
     {
-      "id": "tmdb:293610",
-      "type": "series",
-      "name": "Doctor X: Mafia in White",
-      "poster": "https://image.tmdb.org/t/p/w500/nDDVzQfv95PGwj9nV2fJvUrkcvU.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/rCFZ9cQQVSa9sAvco2Czcct6aKB.jpg",
-      "description": "In a hospital dominated by ego and corruption, an enigmatic but brilliant surgeon arrives — taking on seemingly impossible cases amid fierce opposition.",
-      "releaseInfo": "2026",
-      "genres": [
-        "Mystery",
-        "Drama",
-        "Crime"
-      ]
-    },
-    {
-      "id": "tmdb:300146",
-      "type": "series",
-      "name": "Where the Mask Ends",
-      "poster": "https://image.tmdb.org/t/p/w500/cE9Og0lCCRCP2RArarzJXmu6xEB.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/q6VPQREsEGFccpWVF7wFvy9oc25.jpg",
-      "description": "An ambitious street urchin seizes the chance to impersonate a noblewoman and becomes a warlord's bride, but when her comatose husband awakens, she must navigate deadly schemes, win his heart through cunning, and uncover her royal heritage to triumph over rivals and rise from gutter to glory.",
-      "releaseInfo": "2026",
-      "genres": [
-        "Drama"
-      ]
-    },
-    {
       "id": "tmdb:289517",
       "type": "series",
       "name": "Dead-End Job",
@@ -37,6 +11,20 @@
       "genres": [
         "Mystery",
         "Drama"
+      ]
+    },
+    {
+      "id": "tmdb:293610",
+      "type": "series",
+      "name": "Doctor X: Mafia in White",
+      "poster": "https://image.tmdb.org/t/p/w500/nDDVzQfv95PGwj9nV2fJvUrkcvU.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/mDYIV71RL3mkaW8IfSGNthuVB7l.jpg",
+      "description": "In a hospital dominated by ego and corruption, an enigmatic but brilliant surgeon arrives — taking on seemingly impossible cases amid fierce opposition.",
+      "releaseInfo": "2026",
+      "genres": [
+        "Mystery",
+        "Drama",
+        "Crime"
       ]
     },
     {
@@ -53,6 +41,30 @@
       ]
     },
     {
+      "id": "tmdb:300146",
+      "type": "series",
+      "name": "Where the Mask Ends",
+      "poster": "https://image.tmdb.org/t/p/w500/lneFeeibBiJu7NpPlD3XUUb1pgI.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/oagkprEWVF8EDyGMoQlTQajbsWH.jpg",
+      "description": "An ambitious street urchin seizes the chance to impersonate a noblewoman, and becomes the bride of a wounded war hero who seems sure to die.  But when her comatose husband awakens, she must navigate deadly schemes, win his heart through cunning, and uncover her royal heritage to triumph over rivals and rise from gutter to glory.",
+      "releaseInfo": "2026",
+      "genres": [
+        "Drama"
+      ]
+    },
+    {
+      "id": "tmdb:307853",
+      "type": "series",
+      "name": "Sunshine Through the Rain",
+      "poster": "https://image.tmdb.org/t/p/w500/pG00jI2UCm0Q6U9SDonIlvy3M3i.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/9LtN1ac91JAqXMke8CAJ6BiBSLS.jpg",
+      "description": "Two struggling biology students, initially rivals for a scholarship, find mutual support and solace, transforming their relationship from competition to companionship.",
+      "releaseInfo": "2026",
+      "genres": [
+        "Drama"
+      ]
+    },
+    {
       "id": "tmdb:96677",
       "type": "series",
       "name": "Lupin",
@@ -64,34 +76,6 @@
         "Crime",
         "Drama",
         "Mystery"
-      ]
-    },
-    {
-      "id": "tmdb:289423",
-      "type": "series",
-      "name": "Take Charge of My Heart",
-      "poster": "https://image.tmdb.org/t/p/w500/ecRrKGXfflZmDZBD4irdkybClT.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/cnb3SelfQKewpo0bw4HCNRHjwY4.jpg",
-      "description": "A corporate heir with an artificial heart meets a woman who's literally electric. They strike a deal that makes his heart beat — in more ways than one.",
-      "releaseInfo": "2026",
-      "genres": [
-        "Sci-Fi & Fantasy",
-        "Comedy",
-        "Drama"
-      ]
-    },
-    {
-      "id": "tmdb:312359",
-      "type": "series",
-      "name": "Dragon Ball Super: Beerus",
-      "poster": "https://image.tmdb.org/t/p/w500/AojgldgsOlzZV8ahyOzaiAjJWvV.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/8phLVFEXOe02JgFmH9ldn3j4tXW.jpg",
-      "description": "When Beerus, the God of Destruction, awakens in search of a worthy rival, Goku and his friends face an epic battle to stop him from destroying Earth.\n\nRemastered and re-edited version of Dragon Ball Super.",
-      "releaseInfo": "2026",
-      "genres": [
-        "Animation",
-        "Action & Adventure",
-        "Sci-Fi & Fantasy"
       ]
     },
     {
@@ -119,6 +103,20 @@
       "genres": [
         "Animation",
         "Drama"
+      ]
+    },
+    {
+      "id": "tmdb:312359",
+      "type": "series",
+      "name": "Dragon Ball Super: Beerus",
+      "poster": "https://image.tmdb.org/t/p/w500/AojgldgsOlzZV8ahyOzaiAjJWvV.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/8phLVFEXOe02JgFmH9ldn3j4tXW.jpg",
+      "description": "When Beerus, the God of Destruction, awakens in search of a worthy rival, Goku and his friends face an epic battle to stop him from destroying Earth.\n\nRemastered and re-edited version of Dragon Ball Super.",
+      "releaseInfo": "2026",
+      "genres": [
+        "Animation",
+        "Action & Adventure",
+        "Sci-Fi & Fantasy"
       ]
     }
   ]
