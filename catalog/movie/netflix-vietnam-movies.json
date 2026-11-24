@@ -1,6 +1,19 @@
 {
   "metas": [
     {
+      "id": "tmdb:296096",
+      "type": "movie",
+      "name": "Me Before You",
+      "poster": "https://image.tmdb.org/t/p/w500/oo2Q3T8juOYFh2G1YJ3oSMAfUyq.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/3WK7p9EdZmmvB1IbB2Vw9Rf4lXH.jpg",
+      "description": "Lou Clark, a directionless 26-year-old from the English countryside, takes a job at the local castle as a caregiver and companion to a wealthy young banker, Will Traynor. Wheelchair-bound from an accident two years prior, the once adventurous Will has all but given up — that is until Lou determines to show him that life is worth living.",
+      "releaseInfo": "2016",
+      "genres": [
+        "Drama",
+        "Romance"
+      ]
+    },
+    {
       "id": "tmdb:574475",
       "type": "movie",
       "name": "Final Destination: Bloodlines",
@@ -14,88 +27,29 @@
       ]
     },
     {
-      "id": "tmdb:1571955",
+      "id": "tmdb:1616687",
       "type": "movie",
-      "name": "Collision Course",
-      "poster": "https://image.tmdb.org/t/p/w500/s2eAK0uiODjlNUSIiOBwdp3at2u.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/uI3kWI7kGW5E0F8WduewgQYPt34.jpg",
-      "description": "Spain, 2013. After robbing a bank, a getaway crash reveals the hidden side of each thief, exposing betrayals and lies that began long before the heist.",
+      "name": "Never Surrender",
+      "poster": "https://image.tmdb.org/t/p/w500/hKROmLddpzpjkxKKVFYFRAOXX1b.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/bjt53Hjqwl9VrtJkDv39GwmE1QN.jpg",
+      "description": "When a deadly gang descends on his remote home, a guilt-ridden veteran and the estranged grandchildren he barely knows must unite to survive.",
       "releaseInfo": "2026",
-      "genres": [
-        "Thriller",
-        "Drama",
-        "Crime"
-      ]
-    },
-    {
-      "id": "tmdb:49051",
-      "type": "movie",
-      "name": "The Hobbit: An Unexpected Journey",
-      "poster": "https://image.tmdb.org/t/p/w500/yHA9Fc37VmpUA5UncTxxo3rTGVA.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/xyXmtuvsoM5J3yNad0nvcetpBdY.jpg",
-      "description": "Bilbo Baggins, a hobbit enjoying his quiet life, is swept into an epic quest by Gandalf the Grey and thirteen dwarves who seek to reclaim their mountain home from Smaug, the dragon.",
-      "releaseInfo": "2012",
-      "genres": [
-        "Adventure",
-        "Fantasy",
-        "Action"
-      ]
-    },
-    {
-      "id": "tmdb:1528577",
-      "type": "movie",
-      "name": "Bunny!",
-      "poster": "https://image.tmdb.org/t/p/w500/xoz3AcRfLpT3m780dAJweHX1JcH.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/wDUrTRRXh7DzhZtTI1YkAkTc89S.jpg",
-      "description": "A host of a relationship advice television programme starts to see cracks in her own marriage after the appearance of a mysterious guest.",
-      "releaseInfo": "2026",
-      "genres": [
-        "Romance",
-        "Drama",
-        "Thriller"
-      ]
-    },
-    {
-      "id": "tmdb:939243",
-      "type": "movie",
-      "name": "Sonic the Hedgehog 3",
-      "poster": "https://image.tmdb.org/t/p/w500/d8Ryb8AunYAuycVKDp5HpdWPKgC.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/zOpe0eHsq0A2NvNyBbtT6sj53qV.jpg",
-      "description": "Sonic, Knuckles, and Tails reunite against a powerful new adversary, Shadow, a mysterious villain with powers unlike anything they have faced before. With their abilities outmatched in every way, Team Sonic must seek out an unlikely alliance in hopes of stopping Shadow and protecting the planet.",
-      "releaseInfo": "2024",
-      "genres": [
-        "Action",
-        "Science Fiction",
-        "Comedy",
-        "Family"
-      ]
-    },
-    {
-      "id": "tmdb:11088",
-      "type": "movie",
-      "name": "Heist",
-      "poster": "https://image.tmdb.org/t/p/w500/xrwwSXFeW35wYsnobreXbGxHwUC.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/1acmRn1cnPnavQGQCrIJOERd6vX.jpg",
-      "description": "Joe Moore has a job he loves. He's a thief. His job goes sour when he gets caught on security camera tape. His fence, Bergman, reneges on the money he's owed, and his wife may be betraying him with the fence's young lieutenant. Moore and his partner, Bobby Blane, and their utility man, Pinky Pincus, find themselves broke, betrayed, and blackmailed. Moore is forced to commit his crew to do one last big job.",
-      "releaseInfo": "2001",
       "genres": [
         "Action",
         "Crime",
-        "Drama",
         "Thriller"
       ]
     },
     {
-      "id": "tmdb:296096",
+      "id": "tmdb:1483525",
       "type": "movie",
-      "name": "Me Before You",
-      "poster": "https://image.tmdb.org/t/p/w500/oo2Q3T8juOYFh2G1YJ3oSMAfUyq.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/3WK7p9EdZmmvB1IbB2Vw9Rf4lXH.jpg",
-      "description": "Lou Clark, a directionless 26-year-old from the English countryside, takes a job at the local castle as a caregiver and companion to a wealthy young banker, Will Traynor. Wheelchair-bound from an accident two years prior, the once adventurous Will has all but given up — that is until Lou determines to show him that life is worth living.",
-      "releaseInfo": "2016",
+      "name": "Possible Love",
+      "poster": "https://image.tmdb.org/t/p/w500/dLz9yHeLw4x4sD0WTSNi7HuK2ke.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/k0BY5D4Ya6NHhsvNYMmaabpvUtS.jpg",
+      "description": "A laid-off worker and his wife cross paths with a documentary filmmaker and her spouse and confront their hidden desires.",
+      "releaseInfo": "2026",
       "genres": [
-        "Drama",
-        "Romance"
+        "Drama"
       ]
     },
     {
@@ -113,29 +67,72 @@
       ]
     },
     {
-      "id": "tmdb:1483525",
+      "id": "tmdb:940721",
       "type": "movie",
-      "name": "Possible Love",
-      "poster": "https://image.tmdb.org/t/p/w500/1ERGPNiKtnEcsvJS1ywsmqmcIDO.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/k0BY5D4Ya6NHhsvNYMmaabpvUtS.jpg",
-      "description": "A laid-off worker and his wife cross paths with a documentary filmmaker and her spouse and confront their hidden desires.",
-      "releaseInfo": "2026",
+      "name": "Godzilla Minus One",
+      "poster": "https://image.tmdb.org/t/p/w500/2E2WTX0TJEflAged6kzErwqX1kt.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/oHBhHoNe59VH6bUMazDtJmWOFSS.jpg",
+      "description": "In postwar Japan, Godzilla brings new devastation to an already scorched landscape. With no military intervention or government help in sight, the survivors must join together in the face of despair and fight back against an unrelenting horror.",
+      "releaseInfo": "2023",
       "genres": [
-        "Drama"
+        "Science Fiction",
+        "Horror",
+        "Action"
       ]
     },
     {
-      "id": "tmdb:122917",
+      "id": "tmdb:1419036",
       "type": "movie",
-      "name": "The Hobbit: The Battle of the Five Armies",
-      "poster": "https://image.tmdb.org/t/p/w500/xT98tLqatZPQApyRmlPL12LtiWp.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/3UbaCMmqOd7mca4Y5DOzY2ZVTyX.jpg",
-      "description": "Following Smaug's attack on Laketown, Bilbo and the dwarves try to defend Erebor's mountain of treasure from others who claim it: the men of the ruined Laketown and the elves of Mirkwood. Meanwhile an army of Orcs led by Azog the Defiler is marching on Erebor, fueled by the rise of the dark lord Sauron. Dwarves, elves and men must unite, and the hope for Middle-Earth falls into Bilbo's hands.",
-      "releaseInfo": "2014",
+      "name": "Kijsada Paradise",
+      "poster": "https://image.tmdb.org/t/p/w500/flWf8cNQrlw1PXXW7uzPZPGRDHx.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/x54Apuuj38C3aPv82BH34TQt8Um.jpg",
+      "description": "A friend who goes missing in an abandoned amusement park sets the friendship of a group of teenagers to a challenge as they encounter conflict and secrets along the way.",
+      "releaseInfo": "2026",
       "genres": [
-        "Action",
+        "Horror"
+      ]
+    },
+    {
+      "id": "tmdb:1528577",
+      "type": "movie",
+      "name": "Bunny!",
+      "poster": "https://image.tmdb.org/t/p/w500/xoz3AcRfLpT3m780dAJweHX1JcH.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/wDUrTRRXh7DzhZtTI1YkAkTc89S.jpg",
+      "description": "A host of a relationship advice television programme starts to see cracks in her own marriage after the appearance of a mysterious guest.",
+      "releaseInfo": "2026",
+      "genres": [
+        "Romance",
+        "Drama",
+        "Thriller"
+      ]
+    },
+    {
+      "id": "tmdb:205775",
+      "type": "movie",
+      "name": "In the Heart of the Sea",
+      "poster": "https://image.tmdb.org/t/p/w500/weVvNPfk6FM9vBg3BXtRtNAmiYM.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/4LRLz2V63TSwuQhBVNXsbnHxgoY.jpg",
+      "description": "In the winter of 1820, the New England whaling ship Essex is assaulted by something no one could believe—a whale of mammoth size and will, and an almost human sense of vengeance.",
+      "releaseInfo": "2015",
+      "genres": [
+        "Thriller",
+        "Drama",
         "Adventure",
-        "Fantasy"
+        "Action",
+        "History"
+      ]
+    },
+    {
+      "id": "tmdb:1210973",
+      "type": "movie",
+      "name": "Mai",
+      "poster": "https://image.tmdb.org/t/p/w500/uFsn8qBEzbeJCqH0LsViwPom5ww.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/zZ6nRdNQNxRnZ1LQ2ttPBZl9AXV.jpg",
+      "description": "When a struggling single mother falls for a wealthy heartbreaker, their risky romance could just turn their lives around — or tear their worlds apart.",
+      "releaseInfo": "2024",
+      "genres": [
+        "Romance",
+        "Drama"
       ]
     }
   ]
