@@ -1,19 +1,6 @@
 {
   "metas": [
     {
-      "id": "tmdb:289517",
-      "type": "series",
-      "name": "Dead-End Job",
-      "poster": "https://image.tmdb.org/t/p/w500/wUvzMC7EToPgci31ZZRCeqCmQ6d.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/gWedDgBsZkuOho2qe3q2sTQmbpO.jpg",
-      "description": "Drowning in debt, a young man takes lucrative part-time jobs from a mysterious agency — only to find his hustle for more money turning nightmarish.",
-      "releaseInfo": "2026",
-      "genres": [
-        "Mystery",
-        "Drama"
-      ]
-    },
-    {
       "id": "tmdb:293610",
       "type": "series",
       "name": "Doctor X: Mafia in White",
@@ -28,15 +15,40 @@
       ]
     },
     {
+      "id": "tmdb:289517",
+      "type": "series",
+      "name": "Dead-End Job",
+      "poster": "https://image.tmdb.org/t/p/w500/wUvzMC7EToPgci31ZZRCeqCmQ6d.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/gWedDgBsZkuOho2qe3q2sTQmbpO.jpg",
+      "description": "Drowning in debt, a young man takes lucrative part-time jobs from a mysterious agency — only to find his hustle for more money turning nightmarish.",
+      "releaseInfo": "2026",
+      "genres": [
+        "Mystery",
+        "Drama"
+      ]
+    },
+    {
       "id": "tmdb:293607",
       "type": "series",
       "name": "100 Days of Deception",
-      "poster": "https://image.tmdb.org/t/p/w500/bZHEU42QynnMrHUWK1Hhvj2cdPA.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/nzZRLsIPf4545w2vwvBz5xTdp3.jpg",
       "background": "https://image.tmdb.org/t/p/w1280/3SvKCITqMtjgPIhFBjRc4yTAc4H.jpg",
       "description": "Hoping for freedom, Gyeongseong's top pickpocket infiltrates the Japanese colonial government to steal secrets — only to fall for her target's son.",
       "releaseInfo": "2026",
       "genres": [
         "Action & Adventure",
+        "Drama"
+      ]
+    },
+    {
+      "id": "tmdb:307853",
+      "type": "series",
+      "name": "Sunshine Through the Rain",
+      "poster": "https://image.tmdb.org/t/p/w500/pG00jI2UCm0Q6U9SDonIlvy3M3i.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/hJmiiC30iBl6yrgb3kfT9BiOzjy.jpg",
+      "description": "Two struggling biology students, initially rivals for a scholarship, find mutual support and solace, transforming their relationship from competition to companionship.",
+      "releaseInfo": "2026",
+      "genres": [
         "Drama"
       ]
     },
@@ -53,41 +65,42 @@
       ]
     },
     {
-      "id": "tmdb:307853",
+      "id": "tmdb:54650",
       "type": "series",
-      "name": "Sunshine Through the Rain",
-      "poster": "https://image.tmdb.org/t/p/w500/pG00jI2UCm0Q6U9SDonIlvy3M3i.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/9LtN1ac91JAqXMke8CAJ6BiBSLS.jpg",
-      "description": "Two struggling biology students, initially rivals for a scholarship, find mutual support and solace, transforming their relationship from competition to companionship.",
-      "releaseInfo": "2026",
+      "name": "Power",
+      "poster": "https://image.tmdb.org/t/p/w500/ctftzvyj8b0odco7EoS9VfJhf7K.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/dffs8IiPXyo8lcd1Y1ObqiJG35T.jpg",
+      "description": "A successful New York entrepreneur lives a double life as the head of a drug empire that serves only the rich and influential, all while wanting to escape the underworld and keep his family safe.",
+      "releaseInfo": "2014",
       "genres": [
+        "Crime",
         "Drama"
       ]
     },
     {
-      "id": "tmdb:96677",
+      "id": "tmdb:225385",
       "type": "series",
-      "name": "Lupin",
-      "poster": "https://image.tmdb.org/t/p/w500/h6Z2oogE4mJk2uffdtIlLhb0EHx.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/jgAZYiuRV37pCxmhx8NTdhE36RL.jpg",
-      "description": "Inspired by the adventures of Arsène Lupin, gentleman thief Assane Diop sets out to avenge his father for an injustice inflicted by a wealthy family.",
-      "releaseInfo": "2021",
+      "name": "Black Doves",
+      "poster": "https://image.tmdb.org/t/p/w500/srlsyEfIBz2MNWBndVc3opOaNGS.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/uyL0MH8gtDlChQKpfpkVoUP41VY.jpg",
+      "description": "When a spy posing as a politician's wife learns her lover has been murdered, an old assassin friend joins her on a quest for truth — and vengeance.",
+      "releaseInfo": "2024",
       "genres": [
-        "Crime",
+        "Action & Adventure",
         "Drama",
-        "Mystery"
+        "Mystery",
+        "Crime"
       ]
     },
     {
-      "id": "tmdb:220542",
+      "id": "tmdb:291507",
       "type": "series",
-      "name": "The Apothecary Diaries",
-      "poster": "https://image.tmdb.org/t/p/w500/sJZcy8QsOPuRPiCfoCWVB3r9Ohg.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/gffVOVZ2Y9cmVIZ26Gt9ByMGCYH.jpg",
-      "description": "Maomao lived a peaceful life with her apothecary father. Until one day, she's sold as a lowly servant to the emperor's palace. But she wasn't meant for a compliant life among royalty. So when imperial heirs fall ill, she decides to step in and find a cure! This catches the eye of Jinshi, a handsome palace official who promotes her. Now, she's making a name for herself solving medical mysteries!",
-      "releaseInfo": "2023",
+      "name": "The Body",
+      "poster": "https://image.tmdb.org/t/p/w500/195kCuy2RqGaEAZDDpGTx7gBUBZ.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/hYJqUoXRZnodGxgVZTM8uwr5kbC.jpg",
+      "description": "On Halloween night, an all-girls dance squad tumbles into Catholic guilt, unholy desires and ghostly visions when an initiation goes to hell.",
+      "releaseInfo": "2026",
       "genres": [
-        "Animation",
         "Mystery",
         "Drama"
       ]
@@ -106,17 +119,17 @@
       ]
     },
     {
-      "id": "tmdb:312359",
+      "id": "tmdb:220542",
       "type": "series",
-      "name": "Dragon Ball Super: Beerus",
-      "poster": "https://image.tmdb.org/t/p/w500/AojgldgsOlzZV8ahyOzaiAjJWvV.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/8phLVFEXOe02JgFmH9ldn3j4tXW.jpg",
-      "description": "When Beerus, the God of Destruction, awakens in search of a worthy rival, Goku and his friends face an epic battle to stop him from destroying Earth.\n\nRemastered and re-edited version of Dragon Ball Super.",
-      "releaseInfo": "2026",
+      "name": "The Apothecary Diaries",
+      "poster": "https://image.tmdb.org/t/p/w500/sJZcy8QsOPuRPiCfoCWVB3r9Ohg.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/gffVOVZ2Y9cmVIZ26Gt9ByMGCYH.jpg",
+      "description": "Maomao lived a peaceful life with her apothecary father. Until one day, she's sold as a lowly servant to the emperor's palace. But she wasn't meant for a compliant life among royalty. So when imperial heirs fall ill, she decides to step in and find a cure! This catches the eye of Jinshi, a handsome palace official who promotes her. Now, she's making a name for herself solving medical mysteries!",
+      "releaseInfo": "2023",
       "genres": [
         "Animation",
-        "Action & Adventure",
-        "Sci-Fi & Fantasy"
+        "Mystery",
+        "Drama"
       ]
     }
   ]
